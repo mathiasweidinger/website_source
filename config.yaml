@@ -1,23 +1,8 @@
-baseURL: https://mathiasweidinger.github.io
-languageCode: en
-defaultContentLanguage: en
+theme: "hugo-PaperMod"
+baseURL: http://example.org/
+languageCode: en-us
 title: Mathias Weidinger
-theme: KeepIt
-paginate: 12
-enableEmoji: yes
-enableRobotsTXT: yes
-googleAnalytics: ''
-disqusShortname: yourdiscussshortname
-sitemap:
-  changefreq: monthly
-  filename: sitemap.xml
-  priority: 0.5
-blackfriday:
-  hrefTargetBlank: yes
-  nofollowLinks: yes
-  noreferrerLinks: yes
-Permalinks:
-  posts: /:year/:filename/
+
 menu:
   main:
     - name: About
@@ -30,83 +15,23 @@ menu:
       url: /cv_weidinger.pdf
       weight: 3
     - name: Blog
-      url: /posts
+      url: /post
       weight: 4
-params:
-  author: Mathias Weidinger
-  avatar: "/android-chrome-512x512.png"
-  baidu_verification: ''
-  bing_verification: ''
-  cdn_url: ''
-  dateFormatToUse: ''
-  description: ''
-  gitalk:
-    clientId: ''
-    clientSecret: ''
-    owner: ''
-    repo: ''
-  gitment:
-    clientId: ''
-    clientSecret: ''
-    owner: ''
-    repo: ''
-  google_verification: ''
-  gravatar: {}
-  home_mode: ''
-  image:
-    height: 600
-    url: cover.png
-    width: 800
-  keywords: ''
-  license:
-  logo:
-    height: 40
-    url: logo.png
-    width: 127
-  pinterest_verification: ''
-  publisher:
-    logo:
-      height: 40
-      url: logo.png
-      width: 127
-    name:
-  share:
-    Facebook: no
-    Linkedin: no
-    Twitter: no
-    copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
-      4.0 International License.
-  since: 2018
-  social:
-    Email: mathias.weidinger@gmail.com
-    GitHub: mathiasweidinger
-    Linkedin: mathiasweidinger
-  socialShare: no
-  subtitle: |
-    Development Economics // Climate Change // Policy Analysis
-  utterances:
-    owner: ''
-    repo: ''
-  valine:
-    appId: your appId
-    appKey: your appKey
-    avatar: mm
-    enable: no
-    language: en
-    notify: no
-    placeholder: your comments ...
-    verify: no
-    visitor: yes
-  yandex_verification: ''
-author:
-  name:
 
-markup:
-  pygmentsUseClasses: false
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-    noClasses: false
-    style: monokailight
+params:
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "Envirodevonomics"
+        imageUrl: "/images/android-chrome-512x512.png" # optional
+        imageTitle: "<favicon>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/mathiasweidinger"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/mathiasweidinger/"
+        - name: "email"
+          url: "mailto:mweidinger@ethz.ch"

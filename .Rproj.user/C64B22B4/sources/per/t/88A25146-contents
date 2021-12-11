@@ -1,0 +1,37 @@
+theme: "hugo-PaperMod"
+baseURL: http://example.org/
+languageCode: en-us
+title: Mathias Weidinger
+
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: Research
+      url: /research
+      weight: 2
+    - name: CV
+      url: /cv_weidinger.pdf
+      weight: 3
+    - name: Blog
+      url: /post
+      weight: 4
+
+params:
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "Envirodevonomics"
+        imageUrl: "/images/android-chrome-512x512.png" # optional
+        imageTitle: "<favicon>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/mathiasweidinger"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/mathiasweidinger/"
+        - name: "email"
+          url: "mailto:mweidinger@ethz.ch"
