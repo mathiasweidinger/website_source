@@ -1,13 +1,25 @@
 ---
 aliases:
 - about
-date: "2021/09/18"
+
+date: "2021-09-18"
 title: About
+author: Mathias Weidinger
+
+categories: []
+tags: []
+
 cover:
-    image: "/images/DSC_2317.JPG"
+    #image: "/images/profile_close.jpg"
     alt: "profile_picture"
-    caption: ""
+    caption: "Nice to meet you!"
     relative: false
+    
+hidemeta: true
+showtoc: false
+showBreadCrumbs: false
+
+draft: false
 ---
 
 Hello! I am a Research Assistant with the [Development Economics Group at ETH Zurich](https://dec.ethz.ch/). I study how to meaningfully measure people's lived economic realities, including poverty and inequality, and how people's livelihoods are affected by threats like armed conflict, disease or Climate Change. 

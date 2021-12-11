@@ -1,12 +1,22 @@
 ---
+aliases:
+- research
+
+date: "2021-09-18"
 title: "Research"
-date: 2021-09-18T17:41:59+02:00
-draft: false
-description:
-categories:
- -
-featured_image:
-author: "Mathias Weidinger"
+author: Mathias Weidinger
+
+categories: []
+tags: []
+
+cover:
+    #image: "/images/reds.png"
+    alt: "profile_picture"
+    caption: "Word cloud: child labour in response to climate change."
+
+hidemeta: true
+showtoc: false
+showBreadCrumbs: false
 ---
 
 <img src="/reds.png" alt="wordcloud" width=50%/>
