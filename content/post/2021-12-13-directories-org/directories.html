@@ -36,10 +36,44 @@ draft: true
 <h2>From wardrobes to computers</h2>
 <p>Above I rambled about how organization - situating the right tools in the right place for their easy use - is key to simplifying one’s life. It’s also key to getting things done efficiently on your computer. Say you are working on a new project for work. In my case,this usually involves the accumulation of code, documents, data, and many different sub-directories over time. In the last years, I have found that chaos is almost a certain outcome if I let this folder and file structure grow “organically” - as I go that is.</p>
 <p>The worst part about this, other than confusing the hell out of me, is that it makes automation a hustle. You cannot easily loop through different folders, for instance, if the files in them are not named consistently or if they are spread across different sub directories in an arbitrary way. Why then have I often ended up in situation like this? Frankly, because building a good folder structure for a project ex ante can, itself, be time consuming. What follows is an example of such a situation, and my attempt to solve it programmatically.</p>
-<p>Recently, I had to save, clean, and re-save household data for seventy different countries. For each of them, I saved four different kinds of datasets for all the years available. What I was aiming for looked a lot like this graph. First, find the <code>\ROOT</code> folder. Then follow the arrows to explore the file structure.</p>
-<p><img src="/post/2021-12-13-directories-org/directories_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
-<p>The <code>/ROOT</code> folder includes a <code>ROOT/country</code> folder. In it are, in turn, two folders: <code>raw</code> and <code>processed</code>. <code>ROOT/country/raw</code> is where the original, unprocessed data goes initially. It is itself partitioned into folders, one for each type of data. The data wrangling and cleaning script(s) take data from there and output the processed datasets to <code>ROOT/country/processed</code>. This is the clean data that enters my analysis.</p>
+<p>Recently, I had to save, clean, and re-save household data for seventy different countries. For each of them, I saved four different kinds of datasets for all the years available. What I was aiming for looked a lot like this graph. First, find the <code>ROOT/</code> folder. Then follow the arrows to explore the file structure.</p>
+<div class="figure"><span style="display:block;" id="fig:example-structure"></span>
+<img src="/post/2021-12-13-directories-org/directories_files/figure-html/example-structure-1.png" alt="An example of a project folder structure." width="672" />
+<p class="caption">
+Figure 1: An example of a project folder structure.
+</p>
+</div>
+<p>The <code>ROOT/</code> folder includes a <code>ROOT/country/</code> folder. In it are, in turn, two folders: <code>raw</code> and <code>processed</code>. <code>ROOT/country/raw/</code> is where the original, unprocessed data goes initially. It is itself partitioned into folders, one for each of four types of data. The data wrangling and cleaning script(s) take data from there and output the processed datasets to <code>ROOT/country/processed/</code>, according again to the data types (1 thru 4). This is the clean data that enters my analysis.</p>
 </div>
 <div id="can-we-bash-it-already" class="section level2">
 <h2>Can we bash it, already?</h2>
+<p>Alright, to start with you need to know that the bash command to make new directories is conveniently called <code>mkdir</code>. To create a new folder called <code>things</code> on your desktop is as easy as writing…</p>
+<pre class="bash"><code>cd desktop
+mkdir things</code></pre>
+<p>To create a subdirectory inside <code>things/</code> - let’s call it <code>things/stuff/</code> - we could use the same principle: just <code>cd</code> into <code>things/</code> and create the new sub-directory.</p>
+<pre class="bash"><code>cd desktop
+mkdir things
+cd things
+mkdir stuff</code></pre>
+<p>This is an example of the ad-hoc approach to creating a file system; everytime I feel like I need a subfolder inside a directory, I just go there, create it and place files in it. But this becomes cumbersome very fast, especially because one has to <code>cd</code> in and out directories all the time. Thankfully, there is a way to nest folders inside the mkdir command. The following lines create the same directory <code>desktop/things/stuff/</code> as before, but this time in one line using the flag <code>-p</code> to allow for a nested structure.</p>
+<pre class="bash"><code>cd desktop
+mkdir -p things/stuff</code></pre>
+<p>Next, let’s say that we want to divide our belongings into <code>some things</code> and <code>other things</code>, both of which consist of <code>stuff</code> and <code>more stuff</code>. For this, we use curly braces. Also make sure to use string delimiters (either <code>'</code> or <code>"</code>) around directory names that include spaces.</p>
+<pre class="bash"><code>cd desktop
+mkdir -p {&#39;some things&#39;,&#39;other things&#39;}/{stuff,&#39;more stuff&#39;}</code></pre>
+<p>We just created a nested folder structure with multiple folders at each level. To see how truly powerful this simple command is, let’s finally create the project folder structure from figure <a href="#fig:example-structure">1</a>. To up the complexity a little, the code below creates not one, not two…but <em>fifty-five</em> such country folders (named according to iso alpha 2 international country codes) inside the <code>\ROOT</code> directory.</p>
+<pre class="bash"><code>cd ROOT     # go to directory
+mkdir -p {al,am,bd,bj,bo,bf,bi,kh,ci,cm,cf,km,cg,eg,et,ga,gm,gh,gt,gn,gy,ht,hn,jo,kz,ke,kg,ls,lb,mg,mw,mv,ml,md,ma,mz,np,ni,ne,ng,pk,py,pe,rw,st,sn,sl,tz,tl,tg,tr,ug,ua,ye,zm,\}/{processed,raw}/{type_1,type_2,type_3,type_4}</code></pre>
+<p>This works but it is rather messy to look at. If you need to access and rerun this several times, it might be wise to write a shell script and use <code>\</code> to allow commands to run over multiple lines in bash. Then you can also use <code>#</code> to add comments to your code.</p>
+<pre class="bash"><code>cd ROOT     # go to directory
+mkdir -p {\     # initiate mkdir
+al,am,bd,bj,bo,bf,bi,kh,ci,cm,cf,\        # add country folders 
+km,cg,eg,et,ga,gm,gh,gt,gn,gy,ht,\        
+hn,jo,kz,ke,kg,ls,lb,mg,mw,mv,ml,\
+md,ma,mz,np,ni,ne,ng,pk,py,pe,rw,\
+st,sn,sl,tz,tl,tg,tr,ug,ua,ye,zm,\
+}\
+/{processed,raw}\      # create processed and raw sub-folders inside each country
+/{type_1,type_2,type_3,type_4} # divide them into data types</code></pre>
+<p>Coupled with a little planning ahead, you can now create usable nested project directories in the blink of an eye. Integrating a script like this to your computing routines can boost your productivity and makes it easier for others, who are unfamiliar with your folder structures, to replicate your work.</p>
 </div>
