@@ -23,6 +23,7 @@ menu:
       
 
 params:
+  ShowCodeCopyButtons: true
   ShowShareButtons: false
   ShowReadingTime: true
   ShowToc: true
