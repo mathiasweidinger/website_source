@@ -23,7 +23,7 @@ draft: true
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(collapse = TRUE, echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
 Remember the times when, as a kid, you were only allowed to go out to play if you had cleared up the chaos in your room first? While we might not have appreciated our parents' persistence on the matter all too much back then (I sure did not), I think most people would agree - once they're adults, that is - that it helped them with building good habits. Today's post is a little bit like that parental insistence; a reminder to keep things tidy, or be it on our computers.
@@ -42,26 +42,44 @@ Above I rambled about how organization - situating the right tools in the right 
 
 The worst part about this, other than confusing the hell out of me, is that it makes automation a hustle. You cannot easily loop through different folders, for instance, if the files in them are not named consistently or if they are spread across different sub directories in an arbitrary way. Why then have I often ended up in situation like this? Frankly, because building a good folder structure for a project ex ante can, itself, be time consuming. What follows is an example of such a situation, and my attempt to solve it programmatically.
 
-Recently, I had to save, clean, and re-save household data for seventy different countries. For each of them, I saved four different kinds of datasets for all the years available. The file structure I was aiming for looked a lot like this for each country.
+Recently, I had to save, clean, and re-save household data for seventy different countries. For each of them, I saved four different kinds of datasets for all the years available. What I was aiming for looked a lot like this graph. First, find the `\ROOT` folder. Then follow the arrows to explore the file structure.  
 
+```{r}
+library(ggplot2)
+library(ggdag)
+theme_set(theme_dag())
+
+dagify(DS1 ~ t1,
+       DS2 ~ t2,
+       DS3 ~ t3,
+       DS4 ~ t4,
+       t1 ~ raw,
+       t2 ~ raw,
+       t3 ~ raw,
+       t4 ~ raw,
+       raw ~ ctry,
+       ctry ~ root,
+       proc ~ ctry,
+       ddd ~ proc,
+       labels = c("DS1" = "/data1",
+                  "DS2" = "/data2",
+                  "DS3" = "/data3",
+                  "DS4" = "/data4",
+                  "t1" = "/type1",
+                  "t2" = "/type2",
+                  "t3" = "/type3",
+                  "t4" = "/type4",
+                  "raw" = "/raw",
+                  "ctry" = "/country",
+                  "root" = "/ROOT",
+                  "proc" = "/processed",
+                  "ddd" = "clean data"
+                  )) -> graph
+ggdag(graph, text = FALSE, use_labels = "label")
 ```
-  0       1         2           3                                   4           
 
-/ROOT
-------/country
-------------------/raw
-------------------------------/type_1
-----------------------------------------------------------/"raw data goes here"
-------------------------------/type_2
-----------------------------------------------------------/"raw data goes here"
-------------------------------/type_3
-----------------------------------------------------------/"raw data goes here"
-------------------------------/type_4
-----------------------------------------------------------/"raw data goes here"
-------------------/processed
-------------------------------/"processed data goes here"
-```
 
-The `/ROOT` folder includes 70 such `ROOT/country` folders. Each `ROOT/country` folder, in turn, includes a two folder.`ROOT/country/raw` is where the original, unprocessed data goes initially. The data wrangling and cleaning script(s) take data from there and output the processed datasets to `ROOT/country/processed` where they  cleaning script saves the processed data. 
+
+The `/ROOT` folder includes a `ROOT/country` folder. In it are, in turn, two folders: `raw` and `processed`. `ROOT/country/raw` is where the original, unprocessed data goes initially. It is itself partitioned into folders, one for each type of data. The data wrangling and cleaning script(s) take data from there and output the processed datasets to `ROOT/country/processed`. This is the clean data that enters my analysis. 
 
 ## Can we bash it, already?
