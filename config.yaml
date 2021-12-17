@@ -2,7 +2,6 @@ theme: "hugo-PaperMod"
 baseURL: http://mathiasweidinger.github.io/
 languageCode: en-us
 title: Mathias Weidinger
-favicon: "static/images/android-chrome-512x512.png" # Path to favicon file 
 
 menu:
   main:
@@ -36,7 +35,7 @@ params:
     subtitle: |
       >__1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
 
-    imageUrl: "/images/android-chrome-512x512.png" # optional
+    imageUrl: "/android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
     imageWidth: 180 # custom size
     imageHeight: 180 # custom size
@@ -48,7 +47,7 @@ params:
           url: "https://www.linkedin.com/in/mathiasweidinger/"
         - name: "email"
           url: "mailto:mweidinger@ethz.ch"
-
+    
 outputs:
     home:
         - HTML
