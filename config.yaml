@@ -2,6 +2,7 @@ theme: "hugo-PaperMod"
 baseURL: http://mathiasweidinger.github.io/
 languageCode: en-us
 title: Mathias Weidinger
+favicon: "static/images/android-chrome-512x512.png" # Path to favicon file 
 
 menu:
   main:
@@ -28,7 +29,6 @@ params:
   ShowToc: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
-  favicon: "static/images/android-chrome-512x512.png" # Path to favicon file
   
   profileMode:
     enabled: true #. (Term coined by [Greenstone & Kelsey Jack, 2015](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)).
