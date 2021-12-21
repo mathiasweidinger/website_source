@@ -2,24 +2,24 @@
 aliases:
 - "create-directories"
 
-date: "2021-12-18"
-title: Organization and intentional folder structuring in bash
+date: "2021-12-20"
+title: Intentional file structures in bash
 author: "Mathias Weidinger"
 
 categories: []
-tags: []
+tags: ["Bash", "productivity", "minimalism", "shell", "command line"]
 
 cover:
-    #image: "/images/profile_close.jpg"
-    alt: "profile_picture"
-    caption: "Nice to meet you!"
+    #image: "https://www.atlasformen.co.uk/repository/sites/20/en-GB/Inspiration/capsule-wardrobe.jpg"
+    alt: "capsule_wardrobe"
+    caption: "A minimalist's capsule wardrobe, perhaps."
     relative: false
     
-hidemeta: true
+hidemeta: false
 showtoc: false
 showBreadCrumbs: false
 
-draft: true
+draft: false
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
@@ -28,15 +28,18 @@ draft: true
 <p>Remember the times when, as a kid, you were only allowed to go out to play if you had cleared up the chaos in your room first? While we might not have appreciated our parents’ persistence on the matter all too much back then (I sure did not), I think most people would agree - once they’re adults, that is - that it helped them with building good habits. Today’s post is a little bit like that parental insistence; a reminder to keep things tidy, or be it on our computers.</p>
 <div id="minimalism-vs-organization" class="section level2">
 <h2>Minimalism vs Organization</h2>
+<div class="figure">
+<img src="https://www.atlasformen.co.uk/repository/sites/20/en-GB/Inspiration/capsule-wardrobe.jpg" alt="" />
+<p class="caption">A minimalist’s capsule wardrobe, perhaps.</p>
+</div>
 <p>A few years ago, Marie Kondo - Japan’s “Queen of clean” - had become popular outside Japan and seemingly everyone had suddenly subscribed to some form of “minimalism” as a lifestyle choice. On youtube, minimalist content creators fed the (at times curious, at times outright bizarre) trend of listing everything they own (e.g. <a href="https://www.youtube.com/watch?v=TzaG0VGwCT0">here</a> and <a href="https://www.youtube.com/watch?v=shLASFm-4_4">here</a>), #minimalism trended on twitter, the <em>capsule wardrobe</em> took over instagram by storm, and even Netflix produced a full-length movie entitled <a href="https://www.youtube.com/watch?v=jn-xbOCZOiQ">The Minimalists: Less is Now</a>. Although the trend went quite far for some of its proponents, the director of said movie, minimalism youtuber Matt D’avella, recently reminded his followers that <a href="https://www.youtube.com/watch?v=REJqTXh8IwY">“they didn’t have to marry a minimalist”</a> to be good people. Reassuring!</p>
 <p>I, for my part, couldn’t wait to take this new-found panacea for all the world’s problems and apply it to my digital life. Devices like smart phones and computers are at the heart of most people’s professional as well as private lives and it is this constant exposure to them which makes me think that books like Cal Newport’s <a href="https://www.calnewport.com/books/digital-minimalism/">Digital Minimalism</a> deserve (at least) the same attention as the likes of Matt D’Avella or Marie Kondo. Not that there is anything wrong with decluttering the physical world around us - in fact, it has been eye-opening everytime I’ve done it.</p>
 <p>Rather, I think that computers are a great place to experiment with structure. I have found that structure is the most useful tool when it comes to simplifying my life. At that, it is sometimes overlooked when we reduce minimalism to simply owning <em>less</em> stuff. It’s not only what we own (or how much of it), but also what we do with it - getting things done in other words. The way we assemble our possessions in the space around us affects how easily - and often - we will reach for and actually make use of them. Keeping things in an order that aligns well with our priorities and allows for easy and intuitive access is, thus, key to getting the most out of our belongings. Take for example a kitchen knive (I like to cook). You could of course store it anywhere, your garden shed or under your bed perhaps. But the fact that you will mostly need its services in the kitchen would make it a no-brainer to keep it in your kitchen drawer. Better yet, use a magnetic metal bar to “hang” it on your kitchen wall - in plain sight, that is. This choice maximises intuitive use, since the knive is always there when you need it, where you need it, if you need it. This can be applied to wardrobe organising, paper filing, and virtually all other life domains.</p>
 </div>
 <div id="from-wardrobes-to-computers" class="section level2">
 <h2>From wardrobes to computers</h2>
-<p>Above I rambled about how organization - situating the right tools in the right place for their easy use - is key to simplifying one’s life. It’s also key to getting things done efficiently on your computer. Say you are working on a new project for work. In my case,this usually involves the accumulation of code, documents, data, and many different sub-directories over time. In the last years, I have found that chaos is almost a certain outcome if I let this folder and file structure grow “organically” - as I go that is.</p>
-<p>The worst part about this, other than confusing the hell out of me, is that it makes automation a hustle. You cannot easily loop through different folders, for instance, if the files in them are not named consistently or if they are spread across different sub directories in an arbitrary way. Why then have I often ended up in situation like this? Frankly, because building a good folder structure for a project ex ante can, itself, be time consuming. What follows is an example of such a situation, and my attempt to solve it programmatically.</p>
-<p>Recently, I had to save, clean, and re-save household data for seventy different countries. For each of them, I saved four different kinds of datasets for all the years available. What I was aiming for looked a lot like this graph. First, find the <code>ROOT/</code> folder. Then follow the arrows to explore the file structure.</p>
+<p>Above I rambled about how organization - situating the right tools in the right place for their easy use - is key to simplifying one’s life. It’s also key to getting things done efficiently on your computer. Say you are working on a new project for work. For me, this usually involves the accumulation of code, documents, data, and many different sub-directories over time. In the past, I have found that chaos is inevitable if I let this folder and file structure grow “organically” as I go. The worst part about this is that it makes automation a hustle. You cannot easily loop through different folders, for instance, if the files in them are not named consistently or if they are spread across different sub directories in an arbitrary way. Why then have I often ended up in situation like this? Frankly, because building a good folder structure for a project ex ante can, itself, be time-consuming. What follows is the best solution I have come up with so far. It is far from perfect and I encourage you to experiment with it and share your strategies.</p>
+<p>Recently, I had to save, clean, and re-save household data for more than fifty countries. For each of them, I saved four different kinds of datasets for all the years available. In the end, the file and folder structure I was aiming for looked like this graph. First, find the <code>ROOT/</code> folder. Then follow the arrows to explore the nested structure.</p>
 <div class="figure"><span style="display:block;" id="fig:example-structure"></span>
 <img src="/post/2021-12-13-directories-org/directories_files/figure-html/example-structure-1.png" alt="An example of a project folder structure." width="672" />
 <p class="caption">
@@ -61,7 +64,7 @@ mkdir -p things/stuff</code></pre>
 <p>Next, let’s say that we want to divide our belongings into <code>some things</code> and <code>other things</code>, both of which consist of <code>stuff</code> and <code>more stuff</code>. For this, we use curly braces. Also make sure to use string delimiters (either <code>'</code> or <code>"</code>) around directory names that include spaces.</p>
 <pre class="bash"><code>cd desktop
 mkdir -p {&#39;some things&#39;,&#39;other things&#39;}/{stuff,&#39;more stuff&#39;}</code></pre>
-<p>We just created a nested folder structure with multiple folders at each level. To see how truly powerful this simple command is, let’s finally create the project folder structure from figure <a href="#fig:example-structure">1</a>. To up the complexity a little, the code below creates not one, not two…but <em>fifty-five</em> such country folders (named according to iso alpha 2 international country codes) inside the <code>\ROOT</code> directory.</p>
+<p>We just created a nested folder structure with multiple folders at each level. To see how truly powerful this simple command is, let’s finally create the project folder structure from figure <a href="#fig:example-structure">1</a>. To up the complexity a little, the code below creates not one, not two…but <em>fifty-five</em> such country folders (named according to their <a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">two-letter country codes</a>) inside the <code>\ROOT</code> directory.</p>
 <pre class="bash"><code>cd ROOT     # go to directory
 mkdir -p {al,am,bd,bj,bo,bf,bi,kh,ci,cm,cf,km,cg,eg,et,ga,gm,gh,gt,gn,gy,ht,hn,jo,kz,ke,kg,ls,lb,mg,mw,mv,ml,md,ma,mz,np,ni,ne,ng,pk,py,pe,rw,st,sn,sl,tz,tl,tg,tr,ug,ua,ye,zm,}/{processed,raw}/{type_1,type_2,type_3,type_4}</code></pre>
 <p>This works but it is rather messy to look at. If you need to access and rerun this several times, it might be wise to write a shell script and use <code>\</code> to allow commands to run over multiple lines in bash. Then you can also use <code>#</code> to add comments to your code.</p>
