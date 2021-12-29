@@ -1,0 +1,55 @@
+---
+aliases:
+- "create-directories"
+
+date: "2021-12-29"
+title: "'Estimating panel data models in the presence of endogeneity and selection' - implemented in R"
+author: "Mathias Weidinger"
+
+categories: []
+tags: ["identification", "selection", "endogeneity", "panel data", "R", "econometrics"]
+
+cover:
+    #image: ""
+    alt: ""
+    caption: ""
+    relative: false
+    
+hidemeta: false
+showtoc: false
+showBreadCrumbs: false
+
+draft: true
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="tldr" class="section level2">
+<h2>TL;DR</h2>
+<ul>
+<li>In the social siences, we often encounter “left-censored” variables, where we have a big cluster at some lower threshold (often at zero).</li>
+<li>Selection bias means accidentally working with a specific subset of your audience instead of the whole. The fact that this subset was not drawn randomly, but according to some non-random “selection” process, renders your sample unrepresentative of the whole population.</li>
+<li>Statistical methods to correct for this selection bias are widely used in cross-sectional studies; most notably Heckman (<a href="https://www.jstor.org/stable/1909757">1978</a> and <a href="https://www.jstor.org/stable/1912352">1979</a>). They do, however, not easily extend to longitudinal analysis with fixed effects due to the <a href="https://ocw.mit.edu/courses/economics/14-385-nonlinear-econometric-analysis-fall-2007/lecture-notes/lec21_22_nlpan.pdf">incidental parameters problem</a> (see <a href="https://www.jstor.org/stable/1914288">Neyman &amp; Scott, 1948</a>).</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0304407610000825">Semykina and Wooldridge (2010)</a> provide one estimator that controls for time-persistent, nonobserved heterogeneity (as fixed effects would) <em>and</em> corrects selection bias.</li>
+<li>In this post, I offer a crash course of the theory behind this estimator and implement it in <a href="https://www.r-project.org/">R</a>.</li>
+</ul>
+</div>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<div id="panel-data" class="section level3">
+<h3>Panel Data</h3>
+</div>
+<div id="endogeneity" class="section level3">
+<h3>Endogeneity</h3>
+</div>
+<div id="selection-bias" class="section level3">
+<h3>Selection bias</h3>
+</div>
+</div>
+<div id="theory" class="section level2">
+<h2>Theory</h2>
+</div>
+<div id="implementation-in-r" class="section level2">
+<h2>Implementation in R</h2>
+</div>
