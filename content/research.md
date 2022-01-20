@@ -19,8 +19,6 @@ showtoc: false
 showBreadCrumbs: false
 ---
 
-<img src="/reds.png" alt="wordcloud" width=50%/>
-<br />
 
 ### Working papers and work in progress
 
