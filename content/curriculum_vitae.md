@@ -33,4 +33,4 @@ In writing my own CV of failures and sharing it alongside my "normal" resume, I 
 
 
 - [Download my traditional CV](/weidinger_cv.pdf)
-- [Download my CV of failures](/weidinger_cv.pdf)
+- [Download my CV of failures](/weidinger_failures.pdf)

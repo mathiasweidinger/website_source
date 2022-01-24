@@ -14,7 +14,7 @@ menu:
     - name: Teaching
       url: /teaching
       weight: 2
-    - name: CVs
+    - name: Vita
       url: /curriculum_vitae
       weight: 3
     - name: Blog
@@ -34,23 +34,27 @@ params:
   ShowPostNavLinks: true
   
   profileMode:
-    enabled: true #. (Term coined by [Greenstone & Kelsey Jack, 2015](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)).
+    enabled: true
     title: "**Envirodevonomics** /ɪnˈvaɪrədɪˈvəˈnɑmɪks/"
     subtitle: |
-      >__1. *noun*__ -  field at the intersection of environmental and development economics [(Greenstone and Jack, 2015)](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
+      >__1. *noun*__ -  field at the intersection of environmental and development economics
+# [(Greenstone and Jack, 2015)](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
 
     imageUrl: "/android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
     imageWidth: 180 # custom size
     imageHeight: 180 # custom size
 
-    socialIcons: # optional
-        - name: "github"
-          url: "https://github.com/mathiasweidinger"
-        - name: "linkedin"
-          url: "https://www.linkedin.com/in/mathiasweidinger/"
-        - name: "email"
-          url: "mailto:mweidinger@ethz.ch"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/mathiasweidinger"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mathiasweidinger/"
+    - name: "twitter"
+      url: "https://twitter.com/mat_weidinger"
+    - name: "email"
+      url: "mailto:mweidinger@ethz.ch"
     
 outputs:
     home:
