@@ -23,7 +23,7 @@ I am the sum of my experiences. Like the economy, my life has the tendency to un
 
 [^joke]: Neither of them mentions my zeal of Latin grammar.
 
-One is an archetypal, polished track record of my achievements in all things work and education-related. The other is what is often referred to as a CV of failures. This concept can be traced back to [this 2010 article](https://www.nature.com/articles/nj7322-467a) in Nature by [Melanie I. Stefan, PhD](http://melaniestefan.net/index.html) who is a senior lecturer in Biomedical Sciences at the University of Edinburgh. In her piece, Stefan recounts an experience that resonates with me:
+One is an archetypal, polished track record of my achievements in all things work and education-related. The other is what is often referred to as a CV of failures. This concept can be traced back to [this 2010 article](https://www.nature.com/articles/nj7322-467a) in Nature by [Melanie I. Stefan, PhD](http://melaniestefan.net/index.html). In her piece, she recounts an experience that resonates with me:
 
 > "As scientists, we construct a narrative of success that renders our setbacks invisible both to ourselves and to others. Often, other scientists' careers seem to be a constant, streamlined series of triumphs. Therefore, whenever we experience an individual failure, we feel alone and dejected."
 
