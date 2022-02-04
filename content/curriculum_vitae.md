@@ -3,7 +3,7 @@ aliases:
 - curriculum_vitae
 
 date: "2021-09-18"
-title: "Curricula Vitae"
+title: "Vita"
 author: Mathias Weidinger
 
 categories: []
