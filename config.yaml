@@ -36,8 +36,8 @@ params:
   profileMode:
     enabled: true
     title: "**Envirodevonomics** /ɪnˈvaɪrədɪˈvəˈnɑmɪks/"
-    subtitle: |
-      >__1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
+    #subtitle: |
+    #  >__1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
 
     imageUrl: "/android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
