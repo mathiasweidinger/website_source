@@ -10,10 +10,9 @@ categories: []
 tags: []
 
 cover:
-    image: "/images/20220226_152610.jpg"
+    image: "/images/propro.jpg"
     alt: "profile_picture"
-#    caption: "Nice to meet you!"
-    relative: false
+#   caption: "Me spotting a chance for a natural experiment."
     
 hidemeta: true
 showtoc: false
