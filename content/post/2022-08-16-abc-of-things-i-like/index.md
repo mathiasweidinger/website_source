@@ -6,6 +6,7 @@ date: '2022-08-16'
 slug: []
 categories: []
 tags: [hobby]
+draft: true
 ---
 
 ## A
