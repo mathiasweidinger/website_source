@@ -53,7 +53,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/mat_weidinger"
     - name: "email"
-      url: "mailto:mweidinger@ethz.ch"
+      url: "mailto:mathias.weidinger@gmail.com"
     
 outputs:
     home:

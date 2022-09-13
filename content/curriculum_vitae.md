@@ -19,7 +19,7 @@ showtoc: false
 showBreadCrumbs: false
 ---
 
-For a holistic account of my achievements and mishaps to date, please see both my *Curricula Vitae* provided below. [^joke]
+For my achievements and mishaps to date, please see both my *Curricula Vitae* provided below. [^joke]
 
 [^joke]: Neither mentions my zeal of Latin grammar.
 
