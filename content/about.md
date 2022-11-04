@@ -11,8 +11,8 @@ tags: []
 
 cover:
     image: "/images/propro_bw.jpg"
-    alt: "a man looking straight into the camera, monochrome"
-    #caption: "Me spotting a chance for a natural experiment."
+    alt: "a monochrome photograph of a man looking straight into the camera"
+    caption: "pronouns: he/him, [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)"
     
 hidemeta: true
 showtoc: false
@@ -21,11 +21,11 @@ showBreadCrumbs: false
 draft: false
 ---
 
-I am a data enthusiast and social scientist who lives at the intersection of environmental and development economics - or [envirodevonomics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5) for short. I study how people's economic well-being relates to their natural surroundings, how economic activity transforms the natural environment, and how sustainable development can be achieved. 
+I am a data enthusiast who works at the intersection of environmental and development economics - or [envirodevonomics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5) for short. Following a nine month research assistantship with the Development Economics Group at [ETH Zurich](https://dec.ethz.ch/), I am currently finishing my Research Master's at [Maastricht University](https://www.maastrichtuniversity.nl/education/master/master-economic-and-financial-research-track-economic-financial-research).
 
-Most of the research I envision measures the effects of environmental threats on people's livelihoods in the Global South (and *vice versa*). Since human development relies heavily on ecosystems services, the ultimate goal of my work is to find ways to tackle poverty, hunger, child mortality and the like through investment in environmental quality and effective climate change mitigation and adaptation.
+My research explores the linkages between ecosystem services, economic activity, and human development. The ultimate goal of my work is to find ways to tackle poverty, hunger, child mortality and the like through social protection, investment in environmental quality, and effective climate action.
 
-Large data sets, spatial information and time trends are common to most of my projects. Therefore, I mostly code in [R](https://www.r-project.org/) and occasionally dabble with [Python](https://www.python.org/) and [Julia](https://julialang.org/). I also like to explore non-traditional data sources, such as satellite imagery or social media contents, that typically lend themselves well to Machine Learning techniques. When I'm not working, I like to gain some distance from my computer screen. Then I like to learn new languages, listen to music, geek out about coffee, read popular science books, or simply be outdoors.
+Large data sets, spatial information and time trends are common to most of my projects. Therefore, I mostly code in [R](https://www.r-project.org/) and occasionally dabble with [Python](https://www.python.org/) and [Julia](https://julialang.org/). When I'm not working, I like to learn new languages, listen to music, geek out about coffee, read popular science books, or simply be outdoors.
 
-Following my research assistantship with the [Development Economics Group at ETH Zurich](https://dec.ethz.ch/), I am currently finalizing my [Degree in Economic and Financial Research](https://www.maastrichtuniversity.nl/education/master/master-economic-and-financial-research-track-economic-financial-research) and applying for doctoral positions. In the past, I worked as a project assistant for online education at [UNU-MERIT](https://merit.unu.edu) and studied at [Maastricht University](https://www.maastrichtuniversity.nl).
+On this website you can learn more about me and the work I do. I also intermittently write blog posts to capture an idea I have, take note of something I would otherwise forget, or weigh in on a topic that has recently caught my attention.
 

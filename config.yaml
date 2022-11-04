@@ -35,9 +35,12 @@ params:
   
   profileMode:
     enabled: true
-    title: "**Envirodevonomics**"
-    subtitle: /ɪnˈvaɪrədɪˈvəˈnɑmɪks/
-    #  >__1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5)
+    title: Nice to meet you.
+    
+    subtitle: |
+#      pronounced: /ɪnˈvaɪrədɪˈvəˈnɑmɪks/
+      
+ #     __1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5).
 
     imageUrl: "/android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
@@ -54,6 +57,8 @@ params:
       url: "https://twitter.com/mat_weidinger"
     - name: "email"
       url: "mailto:mathias.weidinger@gmail.com"
+    - name: "rss"
+      url: "index.xml"
     
 outputs:
     home:
