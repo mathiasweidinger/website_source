@@ -35,12 +35,11 @@ params:
   
   profileMode:
     enabled: true
-    title: Nice to meet you.
+    title: |
+      Nice to meet you.
     
     subtitle: |
-#      pronounced: /ɪnˈvaɪrədɪˈvəˈnɑmɪks/
-      
- #     __1. *noun*__ -  [field at the intersection of environmental and development economics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5).
+      Let's talk economics, the environment, and sustainable human development.
 
     imageUrl: "/android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
