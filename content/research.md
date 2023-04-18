@@ -23,7 +23,9 @@ showBreadCrumbs: false
 
 ### In Progress
 
-- More Trees, Less Poverty?
+- The Hidden Costs of Deforestation: Evidence from Uganda (with Stephan Dietrich, Stafford Nichols, and Firminus Mugumya)
+
+- Forest Loss and Subjective Well-being Around the World.
 
 - Specialization Choice and Switching Behavior in Public Policy Students (with Mindel van der Laar)
 
