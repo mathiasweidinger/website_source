@@ -21,7 +21,7 @@ showBreadCrumbs: false
 draft: false
 ---
 
-![pronouns: he/him, [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)](/images/_MW15025.jpg)
+![](/images/MW15025.jpg)
 
 I am a quantitative social scientist who works at the intersection of environmental and development economics - or [envirodevonomics](https://www.aeaweb.org/articles?id=10.1257/jel.53.1.5) for short. I combine data, mathematical models, and coffee to draw transition pathways towards net zero for low- and middle-income countries. I am particularly passionate about policies that leverage investments in environmental quality to promote the joint goals of environmental sustainability and human development, strengthen resilience in local communities, and make polluters pay.
 
