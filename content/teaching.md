@@ -10,7 +10,7 @@ categories: []
 tags: []
 
 cover:
-    #image: "/images/"
+    #image: "/images/classroomcrop.jpg"
     #alt: ""
     #caption: ""
 
@@ -19,8 +19,14 @@ showtoc: false
 showBreadCrumbs: false
 ---
 
-- [Statistics II](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=KATALOGDATEN&lerneinheitId=148880&lang=en), ETH Zurich (Spring 2022, Teaching Assistant)
+![](/images/blackboard.jpg)
 
-- Git for Research, UNU-MERIT (Summer 2021, PhD workshop)
+### ETH Zurich
 
-- Markdown and PanDoc, UNU-MERIT (Summer 2021, PhD workshop)
+-   [**Statistics 2**](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=KATALOGDATEN&lerneinheitId=148880&lang=en) (Spring 2022, teaching assistant)
+
+### UNU-MERIT
+
+-   **Git for Research** (Summer 2021, PhD workshop instructor)
+
+-   **Markdown and PanDoc** (Summer 2021, PhD workshop instructor)

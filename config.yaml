@@ -13,16 +13,20 @@ menu:
       weight: 2
     - name: Teaching
       url: /teaching
-      weight: 2
-    - name: Vita
-      url: /curriculum_vitae
       weight: 3
+    - name: Vita
+      url: /vita
+      weight: 4
+    #- name: Presentations
+    #  url: /presentations
+    #- name: Lens
+    #  url: /lens
     - name: Blog
       url: /post
-      weight: 4
+      weight: 5
     - name: Find
       url: /search
-      weight: 5
+      weight: 6
       
 
 params:
@@ -41,7 +45,7 @@ params:
     subtitle: |
       Let's talk economics, the environment, and sustainable human development.
 
-    imageUrl: "/android-chrome-512x512.png" # optional
+    imageUrl: "android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
     imageWidth: 150 # custom size
     imageHeight: 150 # custom size
