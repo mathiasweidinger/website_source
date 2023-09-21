@@ -10,9 +10,9 @@ categories: []
 tags: []
 
 cover:
-    #image: "/images/_MW15092.jpg"
-    alt: "a photograph of a man with long hair and a big smile."
-    caption: "pronouns: he/him, [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)"
+    #image: "/images/MW15092.jpg"
+    alt: ""
+    caption: ""
     
 hidemeta: true
 showtoc: false
