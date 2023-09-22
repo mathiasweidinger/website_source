@@ -10,9 +10,80 @@ hidemeta: false
 showtoc: false
 showBreadCrumbs: false
 
-
-draft: true
+draft: false
 ---
 
 
 
+<p>Let me set the scene. You find yourself studying graduate economics and are tasked to compile as much household expenditure data from low- and middle-income countries - or LMICs - as you can possibly muster.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> You think you are smart and immediately navigate to the World Bank’s <a href="https://microdata.worldbank.org/index.php/home">Microdata Library</a> to search, find, and download household expenditure data on countries from Algeria to Zimbabwe.<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> Not long into your quest, however, you start to get side-tracked.</p>
+<p>There are thousands of disparate data sets for the same country and year, data sets with similar names but different content, and all the while you must click back and forth through the myriads of variable descriptions to find out, whether expenditure was even captured by any of them (and if so, by which, and how was it measured…). Desperately, you resort to downloading and searching the surveys’ code books for clues. Not all of them are your friendly neighborhood searchable PDFs, though. To make matters worse, many are not written in English. Though you don’t speak the local language of where the survey was conducted, chances are you will soon find yourself scanning for <em>matumizi</em>, <em>Pengeluaran</em>, <em>desembolso</em>, or <em>almasrufat</em> (Yes, online translation is great; and no, you cannot afford to lose time learning <em>Al-abjadiyah</em> scripting). What began as a quick assignment takes up your entire afternoon and, as dusk sets in, you close your laptop in defeat and move on to your evening routine of Netflix and Chilll’d.</p>
+<p><img src="https://www.benandjerrys.ca/files/live/sites/systemsite/files/flavors/products/ca/pints/open-closed-pints/can-eng-non-dairy-netflix-category-open.png" /></p>
+<p>If you find this totally made-up thought experiment intriguing as well, there are two things I wanna tell you:</p>
+<ol style="list-style-type: decimal">
+<li><p>I feel you. It’s okay.</p></li>
+<li><p>There is hope - at least for R users.</p></li>
+</ol>
+<p><a href="https://github.com/mathiasweidinger/WBqueryR">WBqueryR</a> is my very first R-package. I made it to automate tedious queries like the ones described above from within R. Its main function <code>WBqueryR::WBquery()</code> takes user-defined search parameters and a list of keywords as input, downloads code books that meet the search criteria, and queries the variable labels in them for the presence of the keywords. It implements the following three steps:</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>Gather</strong> codebooks for (a subset of) all datasets listed in the Microdata Library, using the World Bank’s API.</p></li>
+<li><p><strong>Score</strong> the variable labels (descriptions) in these codebooks for the presence of key words provided.</p></li>
+<li><p><strong>Return</strong> a list of tibbles for variables with a matching score above the accuracy threshold.</p></li>
+</ol>
+<p>Say you are interested in obtaining data on total consumption and expenditure for households in Nigeria, South Africa, or Vietnam. You are only interested in data that was collected between 2000 and 2019, and which is either in the public domain or else open access. Lastly, you want the results to match your key words at list by 60%. The example below queries the Microdata Library to find data that suits your needs:</p>
+<pre><code>library(WBqueryR)
+
+my_example &lt;- WBquery(
+    key = c(&quot;total consumption&quot;, &quot;total expenditure&quot;), # enter your keywords
+    
+    from = 2000,                            # lower time limit
+    to = 2019,                              # upper time limit
+    country = c(&quot;nigeria&quot;, &quot;zaf&quot;, &quot;vnm&quot;),   # specify countries
+    collection = c(&quot;lsms&quot;),                 # only look for lsms data
+    access = c(&quot;open&quot;, &quot;public&quot;),           # specify access
+    accuracy = 0.6                          # set accuracy to 60%
+    )</code></pre>
+<details>
+<summary>
+Click to see output
+</summary>
+<pre class="r"><code>#&gt; gathering codebooks...
+#&gt; scoring for key word 1/2 (total consumption)...
+#&gt; scoring for key word 2/2 (total expenditure)...
+#&gt; Search complete! Print results in the console? (type y for YES, n for NO):</code></pre>
+</details>
+<p>When <code>WBqueryR::WBquery()</code> has completed the search, the user is prompted to decide, whether a summary of the search results should be printed in the console or not.
+Typing <code>y</code> into the console will print the summary, whereas <code>n</code> will not. Let us see what the summary looks like for the example above:</p>
+<pre class="r"><code>#&gt; Search complete! Print results in the console? (type y for YES, n for NO):y</code></pre>
+<details>
+<summary>
+Click to see output
+</summary>
+<pre class="r"><code>   
+#&gt; 5 result(s) for --total consumption-- in 2 library item(s):
+#&gt;    NGA_2018_GHSP-W4_v03_M
+#&gt;        s7bq2b (CONSUMPTION UNIT) - 67% match
+#&gt;        s7bq2b_os (OTHER CONSUMPTION UNIT) - 63% match
+#&gt;        s7bq2c (CONSUMPTION SIZE) - 61% match
+#&gt;    
+#&gt;    NGA_2015_GHSP-W3_v02_M
+#&gt;        totcons (Total consumption per capita) - 61% match
+#&gt;        totcons (Total consumption per capita) - 61% match
+#&gt;    
+#&gt;   
+#&gt; 3 result(s) for --total expenditure-- in 2 library item(s):
+#&gt;    NGA_2012_GHSP-W2_v02_M
+#&gt;        s2q19i (AGGREGATE EXPENDITURE) - 60% match
+#&gt;    
+#&gt;    NGA_2010_GHSP-W1_v03_M
+#&gt;        s2aq23i (aggregate expenditure) - 61% match
+#&gt;        s2bq14i (aggregate expenditure) - 61% match</code></pre>
+</details>
+<p>Note that no matter whether you choose to display the summary or not, all the information necessary to find the data later has been assigned to the new R-object <code>my_example</code> in your environment. This object is a list of 2 items - one for each key word - and each of these items includes tibbles of varying sizes that correspond to the datasets in the Microdata Library for which results have been found. Every tibble includes information on the matched variables: their name, label, and matching score.</p>
+<p>The package’s installation and usage are described in more detail on the github repo where it lives. While it is far from perfect, I invite you to try out <a href="https://github.com/mathiasweidinger/WBqueryR">WBqueryR</a> and, while you are at it, give feedback so we can improve it. Hopefully, it will save you some troubles next time you’re hunting for data. Now on to that ice cream!</p>
+<div class="footnotes footnotes-end-of-document">
+<hr />
+<ol>
+<li id="fn1"><p>This term is often used to jointly refer to those countries, which the World Bank classifies as either low-income, lower-middle-income, or upper-middle-income in their annual assessment based on GNI per capita estimates<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>For those uninitiated, the Microdata Library is a humongous database of more than 5300 microeconomic survey datasets as of September 2023. It is also growing; Just about a year earlier the number was below 4000.<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
