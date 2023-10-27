@@ -24,7 +24,7 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-- The Hidden Costs of Deforestation: Evidence from Uganda (with Stephan Dietrich, Stafford Nichols, and Firminus Mugumya)
+- Spatially explicit exposure metrics significantly alter estimates of socioeconomic responses to deforestation (with Stephan Dietrich and Stafford Nichols)
 
 ### Unpublished Work
 
