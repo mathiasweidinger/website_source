@@ -11,8 +11,8 @@ tags: []
 
 cover:
     image: "/images/_MW15073.jpg"
-    alt: ""
-    caption: ""
+    alt: "picture of a man in a blue shirt before a blurry green background"
+    caption: "Pronouns: he/him and [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)."
     
 hidemeta: true
 showtoc: false
