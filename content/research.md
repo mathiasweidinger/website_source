@@ -24,7 +24,7 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-- Spatially explicit exposure metrics significantly alter estimates of socioeconomic responses to deforestation (with Stephan Dietrich and Stafford Nichols)
+- Spatially explicit exposure metrics can help gauge highly localized socioeconomic effects of environmental shocks. (with Stephan Dietrich and Stafford Nichols)
 
 ### Unpublished Work
 
