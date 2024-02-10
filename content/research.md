@@ -13,7 +13,7 @@ tags: []
 cover:
     #image: "/images/wordworld.png"
     alt: "worldcloud"
-    #caption: "Word cloud: child labour in response to climate change."
+    #caption: "Word cloud"
 
 hidemeta: true
 showtoc: false
@@ -24,7 +24,17 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-- Spatially explicit exposure metrics can help gauge highly localized socioeconomic effects of environmental shocks. (with Stephan Dietrich and Stafford Nichols)
+- Weathering Food Price Shocks: Pass-throughs, Drivers, and Fiscal Policy Strategies (with Fulvia
+Marotta and Jasper Verschuur)
+
+- Measuring Social Effects of Deforestation Exposure (with Stafford Nichols and Stephan Dietrich)
+
+- South Africa's Green Jobs Revolution: Evidence From the Online Job Market (with Joris Bucker, Sam Fankhauser,
+and Sugandha Srivastav)
+
+- The Economics of Blended Finance
+
+<!--- When Private Finance for Nature Doesn't Work -- And What to do Instead (with Nicola Ranger) -->
 
 ### Unpublished Work
 

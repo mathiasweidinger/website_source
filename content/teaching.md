@@ -27,6 +27,6 @@ showBreadCrumbs: false
 
 ### UNU-MERIT
 
--   **Git for Research** (Summer 2021, PhD workshop instructor)
+-   **Version Control: Git for Economists** (Summer 2021, PhD workshop instructor)
 
--   **Markdown and PanDoc** (Summer 2021, PhD workshop instructor)
+-   **Single Source Publishing of Quantitative Research** (Summer 2021, PhD workshop instructor)
