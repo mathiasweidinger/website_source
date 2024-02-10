@@ -24,8 +24,7 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-- Weathering Food Price Shocks: Pass-throughs, Drivers, and Fiscal Policy Strategies (with Fulvia
-Marotta and Jasper Verschuur)
+- Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries (with Fulvia Marotta and Jasper Verschuur)
 
 - Measuring Social Effects of Deforestation Exposure (with Stafford Nichols and Stephan Dietrich)
 
