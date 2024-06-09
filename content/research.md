@@ -24,25 +24,38 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
+<!-- - [Just Adaptation](https://www.eci.ox.ac.uk/news/partnership-howden-foundation-aims-mobilise-fairer-and-more-just-distribution-support) (with Mark Bernhofen and Nicola Ranger) -->
+
+- How Does Physical Climate Risk Affect Bank Performance in Emerging Markets? Evidence from
+Uganda (with Nicola Ranger)
+
+- Blended Finance for Nature (with Nicola Ranger)
+
+<!-- [Flourishing Landscapes](https://www.naturebasedsolutionsinitiative.org/news/apply-now-for-two-fully-funded-dphil-phd-positions-at-the-nbsi-closing-march-1st): Agroforestry's Role in Sustaining Cocoa Production Amid Climate Change (with Nicola Ranger and William Thompson) -->
+
+- Urban Expansion and Drivers of Emmissions in African Cities (with Samira Barzin, Oliver Harman, and Capucine Riom)
+
+- The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence From Job Advert Data (with Sam Fankhauser and Sugandha Srivastav)
+
 - Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries (with Fulvia Marotta and Jasper Verschuur)
 
-- Measuring Social Effects of Deforestation Exposure (with Stafford Nichols and Stephan Dietrich)
+- Exposure to Deforestation: How Robust are Socioeconomic Estimates to Variability in Spatial Data? (with Stafford Nichols and Stephan Dietrich)
 
-- South Africa's Green Jobs Revolution: Evidence From the Online Job Market (with Joris Bucker, Sam Fankhauser,
-and Sugandha Srivastav)
+### Policy Briefs and Reports
 
-- The Economics of Blended Finance
+- Ranger, N., <u> Weidinger, M.</u>, Bernhofen, M., Burke, M., Lambin, R., Puranasamriddhi, A., Sabuco, J., and Spacey Martin, R. (2024). *Mobilising Finance for Adaptation and Nature-Based Infrastructure: Maximising the Impact of Public Resources*. **Environmental Change Institute, University of Oxford**.
 
-<!--- When Private Finance for Nature Doesn't Work -- And What to do Instead (with Nicola Ranger) -->
+- Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2024). *Toward UK systemic resilience to international cascading climate risks: Infrastructure and Natural Capital: A primer*. **Environmental Change Institute, University of Oxford**.
 
-### Unpublished Work
+### Dissertations
 
-- Weidinger, M. (2023). Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa. *Master's Thesis*. [[paper](/efrthesis_final.pdf)] [[bib](/weidinger_2023.bib)]
+- Weidinger, M. (2023). *Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa*. **Master's Thesis in Economic and Financial Research**. [[paper](/efrthesis_final.pdf)] [[bib](/weidinger_2023.bib)]
 
-- Weidinger, M. (2021). Child Labour in Response to Climate Change. *Master's Thesis*. [[paper](/mppthesis_final.pdf)] [[code](https://github.com/mathiasweidinger/MPPTH)] [[bib](/weidinger_2021.bib)]
+- Weidinger, M. (2021). *Child Labour in Response to Climate Change*. **Master's Thesis in Public Policy and Human Development**. [[paper](/mppthesis_final.pdf)] [[code](https://github.com/mathiasweidinger/MPPTH)] [[bib](/weidinger_2021.bib)]
 
 ### Earlier Work on European Politics
 
-- Senge, P., and Weidinger, M. (2020). MEP's Receptiveness to Third Country Interests in the Framework of ACP-EU Parliamentary Diplomacy. ***NORTIA***. [[paper](https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview)] [[media](https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition/)] [[bib](/senge_weidinger_2020.bib)]
+- Senge, P., and Weidinger, M. (2020). *MEP's Receptiveness to Third Country Interests in the Framework of ACP-EU Parliamentary Diplomacy*. **NORTIA**. [[paper](https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview)] [[media](https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition/)] [[bib](/senge_weidinger_2020.bib)]
 
-- Weidinger, M. (2019). Ethno-national Confrontation and Electoral Choice. ***Peace and Progress*** 4(*1*), 3-29. [[paper](https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf)] [[code](https://nielectionresearch.weebly.com/files.html)] [[bib](/weidinger_2019.bib)]
+- Weidinger, M. (2019). *Ethno-national Confrontation and Electoral Choice*. **Peace and Progress** 4(*1*), 3-29. [[paper](https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf)] [[code](https://nielectionresearch.weebly.com/files.html)] [[bib](/weidinger_2019.bib)]
+
