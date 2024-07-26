@@ -24,18 +24,13 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-<!-- - [Just Adaptation](https://www.eci.ox.ac.uk/news/partnership-howden-foundation-aims-mobilise-fairer-and-more-just-distribution-support) (with Mark Bernhofen and Nicola Ranger) -->
+- [Just Adaptation](https://www.eci.ox.ac.uk/news/partnership-howden-foundation-aims-mobilise-fairer-and-more-just-distribution-support) (with Mark Bernhofen and Nicola Ranger)
 
-- How Does Physical Climate Risk Affect Bank Performance in Emerging Markets? Evidence from
-Uganda (with Nicola Ranger)
+- Blended Finance and Public Goods
 
-- Blended Finance for Nature (with Nicola Ranger)
+- Urban Expansion and Drivers of Emissions in African Cities (with Samira Barzin, Oliver Harman, and Capucine Riom)
 
-<!-- [Flourishing Landscapes](https://www.naturebasedsolutionsinitiative.org/news/apply-now-for-two-fully-funded-dphil-phd-positions-at-the-nbsi-closing-march-1st): Agroforestry's Role in Sustaining Cocoa Production Amid Climate Change (with Nicola Ranger and William Thompson) -->
-
-- Urban Expansion and Drivers of Emmissions in African Cities (with Samira Barzin, Oliver Harman, and Capucine Riom)
-
-- The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence From Job Advert Data (with Sam Fankhauser and Sugandha Srivastav)
+- Load Shedding, Solar Imports, and Green Job Creation in South Africa (with Sam Fankhauser and Sugandha Srivastav)
 
 - Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries (with Fulvia Marotta and Jasper Verschuur)
 
