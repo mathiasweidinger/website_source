@@ -24,17 +24,20 @@ showBreadCrumbs: false
 
 ### Work in Progress
 
-- [Just Adaptation](https://www.eci.ox.ac.uk/news/partnership-howden-foundation-aims-mobilise-fairer-and-more-just-distribution-support) (with Mark Bernhofen and Nicola Ranger)
+- Load-shedding and Solar Adoption (with Sugandha Srivastav)
 
-- Blended Finance and Public Goods
+- Integrating Social Vulnerability Into Physical Climate Risk Appraisal (with Mark Bernhofen, Diana
+Jaramillo Araujo, and Roosa Lambin)
+
+- Blended Finance for Nature?
 
 - Urban Expansion and Drivers of Emissions in African Cities (with Samira Barzin, Oliver Harman, and Capucine Riom)
 
-- Load Shedding, Solar Imports, and Green Job Creation in South Africa (with Sam Fankhauser and Sugandha Srivastav)
+- The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence from Job Ads (with Sam Fankhauser and Sugandha Srivastav)
 
 - Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries (with Fulvia Marotta and Jasper Verschuur)
 
-- Exposure to Deforestation: How Robust are Socioeconomic Estimates to Variability in Spatial Data? (with Stafford Nichols and Stephan Dietrich)
+- Exposure to Deforestation: How Robust is Statistical Inference to Choices in Land Cover Modelling? (with Stafford Nichols and Stephan Dietrich)
 
 ### Policy Briefs and Reports
 

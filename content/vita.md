@@ -25,4 +25,4 @@ showBreadCrumbs: false
 
 ### Curriculum Vitae
 
-{{< embed-pdf url="/weidinger_cv_20240726.pdf" >}}
+{{< embed-pdf url="/weidinger_cv_20240921.pdf" >}}
