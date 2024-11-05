@@ -10,17 +10,12 @@ bibliography: "publications.bib"
 categories: []
 tags: []
 
-cover:
-    #image: "/images/wordworld.png"
-    alt: "worldcloud"
-    #caption: "Word cloud"
-
 hidemeta: true
 showtoc: false
 showBreadCrumbs: false
 ---
 
-![A word cloud of my research to date.](/images/translucent.png)
+<!--![A word cloud of my research to date.](/images/wordworld.png) -->
 
 ### Work in Progress
 

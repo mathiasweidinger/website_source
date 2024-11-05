@@ -9,17 +9,12 @@ author: Mathias Weidinger
 categories: []
 tags: []
 
-cover:
-    #image: "/images/classroomcrop.jpg"
-    #alt: ""
-    #caption: ""
-
 hidemeta: true
 showtoc: false
 showBreadCrumbs: false
 ---
 
-![](/images/blackboard.jpg)
+<!--![](/images/blackboard.jpg)-->
 
 ### Summer Spring Board, Oxford
 
