@@ -88,7 +88,10 @@ subsidies promise higher societal returns over the project's lifecycle.
 <summary>
 <b> The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence from Job Ads </b> (with <a href="https://www.smithschool.ox.ac.uk/person/professor-sam-fankhauser">Sam Fankhauser</a> and <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a>)
 </summary>
-  your long text here
+
+  <img src="/images/wage_offers.png" alt="Comparison of wage offers between green and other jobs." width="700" height="400">
+
+  <em>More info coming soon.</em>
 </details>
 
 <details>
