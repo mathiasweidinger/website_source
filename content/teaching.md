@@ -6,6 +6,11 @@ date: "2021-09-18"
 title: "Teaching"
 author: Mathias Weidinger
 
+cover:
+    #image:
+    alt: ""
+    caption: ""
+
 categories: []
 tags: []
 
@@ -29,3 +34,5 @@ showBreadCrumbs: false
 -   **Version Control: Git for Economists** (Summer 2021, PhD workshop instructor)
 
 -   **Single Source Publishing of Quantitative Research** (Summer 2021, PhD workshop instructor)
+
+![2nd International Conference on the Climate-Macro-Finance Interface. Bayes Business School, London, Jan 17, 2025.](/images/bayes4.jpeg)

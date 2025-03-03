@@ -28,12 +28,12 @@ showBreadCrumbs: false
 
   <b>Abstract:</b> The advent of spatially disaggregated data allows to us map
   where coal and gas fired power plants are located with unprecedented precision.
-  Leveraging this data, we calculate the global health burden of fossil fuels
-  with new precision. We first investigate how much of global fossil-fueled
-  energy generation capacity is located within 25km from population centres,
-  followed by a quantification of the people potentially exposed to the
-  resultant pollution. Lastly, we estimate the total life years lost as a
-  result of proximity to coal- and gas-fired power plants.
+  Leveraging this data, we calculate the global health burden urban populations
+  that live in proximity to fossil-fueled power plants. We first investigate how
+  much of global fossil-fueled energy generation capacity is located within
+  25km from population centres, followed by a quantification of the people
+  potentially exposed to the resultant pollution. Lastly, we estimate the total
+  life years lost as a result of proximity to coal- and gas-fired power plants.
 </details>
 
 <details>

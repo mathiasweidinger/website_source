@@ -10,7 +10,7 @@ categories: []
 tags: []
 
 cover:
-    image: "/images/profile1.jpeg"
+    image: "/images/bayes5.png"
     alt: "profile_picture"
     caption: "Pronouns: he/him and [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)."
     
