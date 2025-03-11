@@ -145,6 +145,8 @@ cover data.
 
 ### Policy Briefs and Reports
 
+- Yang, P., Hirmer, S., and Weidinger, M. (2025). Empowering People with green Skills for Climate-Compatible Growth. Policy Brief, Climate Compatible Growth Programme.
+
 - Weidinger, M. and Ranger, N. (2025). Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda. Technical Note, Coalition of Finance Ministers for Climate Action.
 
 - Weidinger, M. and Ranger, N. (2025). The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis. Technical Note, Coalition of Finance Ministers for Climate Action.
