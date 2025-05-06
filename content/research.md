@@ -152,9 +152,7 @@ cover data.
 ------------------
 
 **_Child Labour in Response to Climate Change._** Weidinger, M. (2021). *Master's Thesis in Public Policy and Human Development*.
-[Paper (pdf)](/mppthesis_final.pdf),
-[Citation](/weidinger_2021.bib)
-[Code](/https://github.com/mathiasweidinger/MPPTH)
+[Paper (pdf)](/mppthesis_final.pdf), [Citation](/weidinger_2021.bib), [Code](/https://github.com/mathiasweidinger/MPPTH)
 
 ### Earlier Work on European Politics
 ------------------
