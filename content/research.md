@@ -94,7 +94,7 @@ policy counterfactuals to evaluate hypothetical coping strategies.
 
 ------------------
 
-**_Exposure to Deforestation: How Robust is Statistical Inference to Choices in Land Cover Modelling?_** with [Stafford Nichols](https://unu.edu/merit/about/research-fellow/stafford-nichols) and [Stephan Dietrich](https://unu.edu/merit/about/expert/dr-stephan-dietrich). *[WP (pdf)](/exposure_to_deforestation.pdf)*
+**_Exposure to Deforestation: How Robust is Statistical Inference to Choices in Land Cover Modelling?_** with [Stafford Nichols](https://unu.edu/merit/about/research-fellow/stafford-nichols) and [Stephan Dietrich](https://unu.edu/merit/about/expert/dr-stephan-dietrich). [WP (pdf)](/exposure_to_deforestation.pdf)
 
 <details>
 <summary>
@@ -123,10 +123,6 @@ cover data.
 ### Policy Briefs and Reports
 ------------------
 
-**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (forthcoming). *Report*,  Environmental Change Institute, University of Oxford.
-
-------------------
-
 **_Empowering People with green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (forthcoming). *Policy Brief*, Climate Compatible Growth Programme.
 
 ------------------
@@ -136,6 +132,10 @@ cover data.
 ------------------
 
 **_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (forthcoming). *Technical Note*, Coalition of Finance Ministers for Climate Action.
+
+------------------
+
+**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper(pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
 
 ------------------
 
