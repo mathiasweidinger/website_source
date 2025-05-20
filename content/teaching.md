@@ -21,18 +21,7 @@ showBreadCrumbs: false
 
 <!--![](/images/blackboard.jpg)-->
 
-### Summer Spring Board, Oxford
-
-- [Economics 101](https://summerspringboard.com/teen-programs/economics-at-oxford/) (Summer 2024, main instructor)
-
-### ETH Zurich
-
--   [**Statistics 2**](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=KATALOGDATEN&lerneinheitId=148880&lang=en) (Spring 2022, teaching assistant)
-
-### UNU-MERIT
-
--   **Version Control: Git for Economists** (Summer 2021, PhD workshop instructor)
-
--   **Single Source Publishing of Quantitative Research** (Summer 2021, PhD workshop instructor)
-
-![2nd International Conference on the Climate-Macro-Finance Interface. Bayes Business School, London, Jan 17, 2025.](/images/bayes4.jpeg)
+- [**_Trade and Economics_**](https://summerspringboard.com/teen-programs/economics-at-oxford/) (Summer 2024, Summer Spring Board)
+- [**_Statistics 2_**](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=KATALOGDATEN&lerneinheitId=148880&lang=en) (Spring 2022, ETH Zurich)
+- **_Version Control: Git for Economists_** (2021, UNU-MERIT)
+- **_Single Source Publishing of Quantitative Research_** (2021, UNU-MERIT)
