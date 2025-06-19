@@ -127,11 +127,11 @@ cover data.
 
 ------------------
 
-**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (forthcoming). *Technical Note*, Coalition of Finance Ministers for Climate Action.
+**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper (pdf)](https://greenandresilienteconomics.org/compendium-of-practice/contributions/institutional-architecture-and-mobilization-of-private-capital-for-adaptation-the-case-of-rwanda/)
 
 ------------------
 
-**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (forthcoming). *Technical Note*, Coalition of Finance Ministers for Climate Action.
+**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper (pdf)](https://greenandresilienteconomics.org/compendium-of-practice/contributions/the-fiscal-case-for-adaptation-and-improved-sustainability-analysis/)
 
 ------------------
 
