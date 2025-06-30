@@ -142,6 +142,9 @@ cover data.
 **_Enabling Adaptation: Sustainable Fiscal Policies for Climate Resilient Development and Infrastructure._** Ranger, N., Weidinger, M., Bernhofen, M., Burke, M., Lambin, R., Puranasamriddhi, A., Sabuco, J., and Spacey Martin, R. (2025). *Report*, Environmental Change Institute, University of Oxford.
 [Paper (pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf), [Citation](/ranger_2025.bib)
 
+### Media
+
+**_Emissions Trading Schemes_** (2025) Quick Climate Dictionary, The Conversation. [[Video]](https://www.youtube.com/watch?v=FX3LoHTnD6s&t=4s)
 
 ### Dissertations
 ------------------
