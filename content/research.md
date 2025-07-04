@@ -142,14 +142,20 @@ cover data.
 **_Enabling Adaptation: Sustainable Fiscal Policies for Climate Resilient Development and Infrastructure._** Ranger, N., Weidinger, M., Bernhofen, M., Burke, M., Lambin, R., Puranasamriddhi, A., Sabuco, J., and Spacey Martin, R. (2025). *Report*, Environmental Change Institute, University of Oxford.
 [Paper (pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf), [Citation](/ranger_2025.bib)
 
-### Media
+### Popular Writing
+------------------
 
-**_Emissions Trading Schemes_** (2025) Quick Climate Dictionary, The Conversation. [[Video]](https://www.youtube.com/watch?v=FX3LoHTnD6s&t=4s)
+**_The Vogue Business Climate Finance Glossary_**. Webb, B., Turns, A. (eds.), Maslin, M., Dietzel, A., Maalouf, A., Zhang, D., Specht, D, Morsing, M., Weidinger, M., Yan, M., Nahidi, N., O'Hare, P., and Sivarajah, S. (2025). *Online Glossary*, Vogue Business. [Vogue](https://www.voguebusiness.com/story/sustainability/the-vogue-business-climate-finance-glossary-the-hidden-cost), [The Conversation](https://theconversation.com/your-essential-guide-to-climate-finance-256358)
+
+### Audio and Video 
+------------------
+
+**_Emissions Trading Schemes_**. Weidinger, M. (2025). *Video*, The Conversation Quick Climate Dictionary. [YouTube](https://www.youtube.com/watch?v=FX3LoHTnD6s&t=4s)
 
 ### Dissertations
 ------------------
 
-**_Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa._** Weidinger, M. (2023).Master's Thesis in Economic and Financial Research.
+**_Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa._** Weidinger, M. (2023). Master's Thesis in Economic and Financial Research.
 [Paper (pdf)](/efrthesis_final.pdf), [Citation](/weidinger_2023.bib)
 
 ------------------
