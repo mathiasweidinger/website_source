@@ -20,6 +20,38 @@ showBreadCrumbs: false
 ### Work in Progress
 ------------------
 
+**_Bridging the Financing Gap: Exploring the Drivers of Clean Energy Project Bankability in Ghana_** with [Theophilus Acheampong](https://www.abdn.ac.uk/people/theophilus.acheampong), Dennis Asare, Amprofi Agyemang, and [Bridget Menyeh](https://rgu-repository.worktribe.com/person/1646157/bridget-menyeh). *Submitted to Energy Policy*
+<details>
+<summary>
+Abstract
+</summary>
+
+Access to finance remains a major constraint for many firms despite the
+potential of Sub-Saharan Africa's clean energy sector to the drive the
+continent's energy transition and access goals. This paper investigates
+the key factors influencing the bankability of clean energy projects in Ghana
+using Partial Least Squares Structural Equation Modelling (PLS-SEM). The study
+examines five latent variables: project readiness, financial structures,
+experienced project teams, risk mitigation, and alignment with Sustainable
+Development Goals (SDGS) and Environmental, Social, and Governance (ESG)
+criteria. A survey was administered to 80 respondents comprising clean energy
+companies, policymakers, and financiers. The PLS-SEM approach was used to
+identify significant relationships between these variables and the overall
+bankability of projects. Our findings show that bankability is multidimensional
+and determined by a combination of direct project enablers and indirect
+interdependencies. Projects are more likely to be bankable if they have clear
+regulatory approvals, defined objectives, and undertaken feasibility studies,
+along with thorough financial modelling. Experienced teams, strong stakeholder
+support, and robust risk mitigation strategies also enhance bankability. While
+SDG-ESG alignment is increasingly important, it plays a supporting rather than
+central role in securing clean energy project financing. The findings provide
+practical insights for policymakers, clean energy developers and financiers in
+Ghana and other emerging economies.
+
+</details>
+
+------------------
+
 **_The Global Health Burden from Coal-fired Power Stations_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
 
 <details>
@@ -44,27 +76,6 @@ life years lost as a result of proximity to coal- and gas-fired power plants.
 ------------------
 
 **_The Distributional Effects of Flood Risk on Access to Critical Infrastructure_** with Diana Jaramillo Araujo, [Mark Bernhofen](https://www.eci.ox.ac.uk/person/dr-mark-bernhofen), and [Roosa Lambin](https://www.eci.ox.ac.uk/person/dr-roosa-lambin). *WP coming soon*
-
-------------------
-
-**_Blended Finance for Nature?_**
-
-<details>
-<summary>
-Abstract
-</summary>
-Blended Finance, the use of concessional capital to crowd in private investment, has
-emerged as a new paradigm for financing sustainable development. To scrutinise the
-economic rationales behind this practice in a dynamic setting, this paper develops an
-inter-temporal model of loan provision and tests the implications of blending in
-equilibrium. Blending provides optimal structuring of finance when the aim is to ease
-a project's credit constraints before it has achieved financial maturity. However, the
-benefits of blending subsequently decrease in an investment's private to public pay-
-off ratio and seize to exist entirely upon reaching maturity. Projects with significant
-externalities may never reach financial maturity, conditional on the extent to which
-commercial investors can monetise them. In these cases, grants and interest rate
-subsidies promise higher societal returns over the project's lifecycle.
-</details>
 
 ------------------
 
@@ -118,6 +129,28 @@ cover data.
 
 </details>
 
+### Resting Working Papers
+
+------------------
+
+**_Blended Finance for Nature?_**
+
+<details>
+<summary>
+Abstract
+</summary>
+Blended Finance, the use of concessional capital to crowd in private investment, has
+emerged as a new paradigm for financing sustainable development. To scrutinise the
+economic rationales behind this practice in a dynamic setting, this paper develops an
+inter-temporal model of loan provision and tests the implications of blending in
+equilibrium. Blending provides optimal structuring of finance when the aim is to ease
+a project's credit constraints before it has achieved financial maturity. However, the
+benefits of blending subsequently decrease in an investment's private to public pay-
+off ratio and seize to exist entirely upon reaching maturity. Projects with significant
+externalities may never reach financial maturity, conditional on the extent to which
+commercial investors can monetise them. In these cases, grants and interest rate
+subsidies promise higher societal returns over the project's lifecycle.
+</details>
 
 
 ### Policy Briefs and Reports
