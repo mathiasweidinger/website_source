@@ -19,8 +19,8 @@ showBreadCrumbs: false
 
 ### Work in Progress
 ------------------
-
 **_Bridging the Financing Gap: Exploring the Drivers of Clean Energy Project Bankability in Ghana_** with [Theophilus Acheampong](https://www.abdn.ac.uk/people/theophilus.acheampong), Dennis Asare, Amprofi Agyemang, and [Bridget Menyeh](https://rgu-repository.worktribe.com/person/1646157/bridget-menyeh). *Submitted to Energy Policy*
+
 <details>
 <summary>
 Abstract
@@ -156,7 +156,7 @@ subsidies promise higher societal returns over the project's lifecycle.
 ### Policy Briefs and Reports
 ------------------
 
-**_Empowering People with green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (forthcoming). *Policy Brief*, Climate Compatible Growth Programme.
+**_Empowering People with green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper (pdf)](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
 
 ------------------
 
@@ -168,7 +168,7 @@ subsidies promise higher societal returns over the project's lifecycle.
 
 ------------------
 
-**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper(pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
+**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper (pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
 
 ------------------
 
