@@ -10,11 +10,8 @@ categories: []
 tags: []
 
 cover:
-    image: "/images/profile2.jpg"
-    #bayes5.png"
-    #headshots/SSEE-Headshots-May2025-053_cropped.png"
-    #scotland/bright1.jpeg"
-    alt: "profile_picture"
+    image: "/images/scotland/scot3.jpeg"
+    alt: "Happy me somewhere in Pentland Hills Regional Park. Photo credits to M. Tochukwu Christopher."
     caption: "Pronouns: he/him and [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)."
     
 hidemeta: true
