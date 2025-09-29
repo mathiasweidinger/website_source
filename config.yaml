@@ -11,22 +11,25 @@ menu:
     - name: Research
       url: /research
       weight: 2
-    - name: Teaching
-      url: /teaching
-      weight: 3
-    - name: Vita
-      url: /vita
-      weight: 4
+    #- name: Teaching
+    #  url: /teaching
+    #  weight: 
+    #- name: Vita
+    #  url: /vita
+    #  weight: 
     #- name: Presentations
     #  url: /presentations
     #- name: Lens
     #  url: /lens
     - name: Blog
       url: /post
-      weight: 5
+      weight: 3
+    - name: Contact
+      url: /contact
+      weight: 4
     - name: Find
       url: /search
-      weight: 6
+      weight: 5
       
 
 params:
@@ -55,9 +58,9 @@ params:
     - name: "github"
       url: "https://github.com/mathiasweidinger"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/mathiasweidinger/"
+      url: "https://www.linkedin.com/in/envirodevonomic/"
     - name: "twitter"
-      url: "https://twitter.com/mat_weidinger"
+      url: "https://twitter.com/envirodevonomic"
     - name: "email"
       url: "mailto:mathias.weidinger@gmail.com"
     - name: "rss"
