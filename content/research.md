@@ -52,7 +52,7 @@ Ghana and other emerging economies.
 
 ------------------
 
-**_The Global Health Burden from Coal-fired Power Stations_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
+**_The Health Burden of India's Coal-fired Power Stations_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
 
 <details>
 <summary>
@@ -73,9 +73,9 @@ life years lost as a result of proximity to coal- and gas-fired power plants.
 
 **_Sunlight as Security? Load-shedding and Solar Adoption_**  with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
 
-------------------
+<!-------------------
 
-**_The Distributional Effects of Flood Risk on Access to Critical Infrastructure_** with Diana Jaramillo Araujo, [Mark Bernhofen](https://www.eci.ox.ac.uk/person/dr-mark-bernhofen), and [Roosa Lambin](https://www.eci.ox.ac.uk/person/dr-roosa-lambin). *WP coming soon*
+-**_The Distributional Effects of Flood Risk on Access to Critical Infrastructure_** with Diana Jaramillo Araujo, [Mark Bernhofen](https://www.eci.ox.ac.uk/person/dr-mark-bernhofen), and [Roosa Lambin](https://www.eci.ox.ac.uk/person/dr-roosa-lambin). *WP coming soon* -->
 
 ------------------
 
@@ -155,8 +155,11 @@ subsidies promise higher societal returns over the project's lifecycle.
 
 ### Policy Briefs and Reports
 ------------------
+**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](), [Press Release]()
 
-**_Empowering People with green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper (pdf)](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
+------------------
+
+**_Empowering People with Green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper (pdf)](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
 
 ------------------
 

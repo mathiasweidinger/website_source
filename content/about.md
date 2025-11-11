@@ -9,11 +9,6 @@ author: Mathias Weidinger
 categories: []
 tags: []
 
-cover:
-    image: "images/profile2.jpg"
-    alt: "Happy me somewhere in Pentland Hills Regional Park. Photo credits to M. Tochukwu Christopher."
-    caption: "Pronouns: he/him and [they/them](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)."
-    
 hidemeta: true
 showtoc: false
 showBreadCrumbs: false
@@ -21,11 +16,12 @@ showBreadCrumbs: false
 draft: false
 ---
 
-<!--
 <center>
 <img class="img-fluid" src="/images/profile1.jpg" alt="img-verification" width='33%' >
 </center>
--->
+
+![Tadaa](/images/profile1.jpg)
+
 <!--I am a doctoral student at the University of Oxford's [Environmental Change Institute](https://www.eci.ox.ac.uk/). -->
 
 I am a social scientist with a passion for people and the natural world. Since 2023, I work as an Early Career Researcher at the [Smith School of Enterprise and the Environment](https://www.smithschool.ox.ac.uk/). I am also affiliated to [Oxford Net Zero](https://netzeroclimate.org/), the [Institute of New Economic Thinking](https://www.inet.ox.ac.uk/people/mathias-weidinger/), the [Environmental Change Institute](https://www.eci.ox.ac.uk/), and [Climate Compatible Growth](https://climatecompatiblegrowth.com/). Before coming to Oxford, I worked with the [Development Economics Group at ETH Zurich](https://dec.ethz.ch/) and studied at [UNU-MERIT](https://www.merit.unu.edu/training/msc-in-public-policy-and-human-development/) and [Maastricht University](https://curriculum.maastrichtuniversity.nl/education/master/master-economic-and-financial-research-track-economic-financial-research). You can view my CV [here](/weidinger_cv.pdf).
