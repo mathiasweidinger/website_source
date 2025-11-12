@@ -155,7 +155,7 @@ subsidies promise higher societal returns over the project's lifecycle.
 
 ### Policy Briefs and Reports
 ------------------
-**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](), [Press Release]()
+**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](), [Press Release]()
 
 ------------------
 
