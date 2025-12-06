@@ -19,7 +19,7 @@ showBreadCrumbs: false
 
 ### Work in Progress
 ------------------
-**_Bridging the Financing Gap: Exploring the Drivers of Clean Energy Project Bankability in Ghana_** with [Theophilus Acheampong](https://www.abdn.ac.uk/people/theophilus.acheampong), Dennis Asare, Amprofi Agyemang, and [Bridget Menyeh](https://rgu-repository.worktribe.com/person/1646157/bridget-menyeh). *Submitted to Energy Policy*
+**_Bridging the Financing Gap: Exploring the Drivers of Clean Energy Project Bankability in Ghana_** with [Theophilus Acheampong](https://www.abdn.ac.uk/people/theophilus.acheampong), Dennis Asare, Amprofi Agyemang, and [Bridget Menyeh](https://rgu-repository.worktribe.com/person/1646157/bridget-menyeh).
 
 <details>
 <summary>
@@ -52,7 +52,8 @@ Ghana and other emerging economies.
 
 ------------------
 
-**_The Health Burden of India's Coal-fired Power Stations_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
+**_Tackling the Extensive Margin of Indian Coal
+Power_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/).
 
 <details>
 <summary>
@@ -71,7 +72,7 @@ life years lost as a result of proximity to coal- and gas-fired power plants.
 
 ------------------
 
-**_Sunlight as Security? Load-shedding and Solar Adoption_**  with [Sugandha Srivastav](https://www.sugandhasrivastav.com/). *WP coming soon*
+**_Sunlight as Security? Load-shedding and Solar Adoption_**  with [Sugandha Srivastav](https://www.sugandhasrivastav.com/).
 
 <!-------------------
 
@@ -79,11 +80,11 @@ life years lost as a result of proximity to coal- and gas-fired power plants.
 
 ------------------
 
-**_The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence from Job Ads_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/), [Sam Fankhauser](https://www.smithschool.ox.ac.uk/person/professor-sam-fankhauser) and [Lorenzo Agnelli](https://www.inet.ox.ac.uk/people/lorenzo-agnelli). *WP coming soon*
+**_The Labour Market Impacts of Green Industrial Policy in South Africa: Evidence from Job Ads_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/), [Sam Fankhauser](https://www.smithschool.ox.ac.uk/person/professor-sam-fankhauser) and [Lorenzo Agnelli](https://www.inet.ox.ac.uk/people/lorenzo-agnelli).
 
 ------------------
 
-**_Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries_** with [Fulvia Marotta](https://fulviamarotta.wixsite.com/fulvia-marotta) and [Jasper Verschuur](https://www.tudelft.nl/en/staff/j.verschuur/?cHash=9c8cc35944c377e2278addf64d837927). *WP coming soon*
+**_Mitigating the Impact of Global Food Price Shocks: Pass-throughs and Fiscal Policy Strategies for Climate Vulnerable Countries_** with [Fulvia Marotta](https://fulviamarotta.wixsite.com/fulvia-marotta) and [Jasper Verschuur](https://www.tudelft.nl/en/staff/j.verschuur/?cHash=9c8cc35944c377e2278addf64d837927).
 
 <details>
 <summary>
@@ -105,7 +106,7 @@ policy counterfactuals to evaluate hypothetical coping strategies.
 
 ------------------
 
-**_Exposure to Deforestation: How Robust is Statistical Inference to Choices in Land Cover Modelling?_** with [Stafford Nichols](https://unu.edu/merit/about/research-fellow/stafford-nichols) and [Stephan Dietrich](https://unu.edu/merit/about/expert/dr-stephan-dietrich). [WP (pdf)](/exposure_to_deforestation.pdf)
+**_Exposure to Deforestation: How Robust is Statistical Inference to Choices in Land Cover Modelling?_** with [Stafford Nichols](https://unu.edu/merit/about/research-fellow/stafford-nichols) and [Stephan Dietrich](https://unu.edu/merit/about/expert/dr-stephan-dietrich).
 
 <details>
 <summary>
@@ -155,28 +156,28 @@ subsidies promise higher societal returns over the project's lifecycle.
 
 ### Policy Briefs and Reports
 ------------------
-**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](), [Press Release]()
+**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](https://www.smithschool.ox.ac.uk/sites/default/files/2025-11/The-economic-benefits-of-renewable-energy-and-how-to-share-them.pdf), [Press Release](https://www.smithschool.ox.ac.uk/news/10-gdp-boost-global-south-clean-energy-transition), [The Conversation](https://theconversation.com/renewable-energy-is-reshaping-the-global-economy-new-report-268676), [Event](https://www.smithschool.ox.ac.uk/event/unlocking-local-benefits-renewable-energy)
 
 ------------------
 
-**_Empowering People with Green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper (pdf)](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
+**_Empowering People with Green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
 
 ------------------
 
-**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper (pdf)](https://greenandresilienteconomics.org/compendium-of-practice/contributions/institutional-architecture-and-mobilization-of-private-capital-for-adaptation-the-case-of-rwanda/)
+**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper](https://greenandresilienteconomics.org/compendium-of-practice/contributions/institutional-architecture-and-mobilization-of-private-capital-for-adaptation-the-case-of-rwanda/)
 
 ------------------
 
-**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper (pdf)](https://greenandresilienteconomics.org/compendium-of-practice/contributions/the-fiscal-case-for-adaptation-and-improved-sustainability-analysis/)
+**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper](https://greenandresilienteconomics.org/compendium-of-practice/contributions/the-fiscal-case-for-adaptation-and-improved-sustainability-analysis/)
 
 ------------------
 
-**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper (pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
+**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
 
 ------------------
 
 **_Enabling Adaptation: Sustainable Fiscal Policies for Climate Resilient Development and Infrastructure._** Ranger, N., Weidinger, M., Bernhofen, M., Burke, M., Lambin, R., Puranasamriddhi, A., Sabuco, J., and Spacey Martin, R. (2025). *Report*, Environmental Change Institute, University of Oxford.
-[Paper (pdf)](https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf), [Citation](/ranger_2025.bib)
+[Paper](https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf), [Citation](/ranger_2025.bib)
 
 ### Popular Writing
 ------------------
@@ -192,20 +193,20 @@ subsidies promise higher societal returns over the project's lifecycle.
 ------------------
 
 **_Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa._** Weidinger, M. (2023). Master's Thesis in Economic and Financial Research.
-[Paper (pdf)](/efrthesis_final.pdf), [Citation](/weidinger_2023.bib)
+[Paper](/efrthesis_final.pdf), [Citation](/weidinger_2023.bib)
 
 ------------------
 
 **_Child Labour in Response to Climate Change._** Weidinger, M. (2021). *Master's Thesis in Public Policy and Human Development*.
-[Paper (pdf)](/mppthesis_final.pdf), [Citation](/weidinger_2021.bib), [Code](/https://github.com/mathiasweidinger/MPPTH)
+[Paper](/mppthesis_final.pdf), [Citation](/weidinger_2021.bib), [Code](/https://github.com/mathiasweidinger/MPPTH)
 
 ### Earlier Work on European Politics
 ------------------
 
 **_MEP's Receptiveness to Third Country Interests in the Framework of ACP-EU Parliamentary Diplomacy._** Senge, P. and Weidinger, M. (2020). *Student Essay Competition*, NORTIA.
-[Paper (pdf)](https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview), [Citation](/senge_weidinger_2020.bib), [Code](/https://github.com/mathiasweidinger/MPPTH"), [News](https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition), [News](https://www.politics.ox.ac.uk/news/dpir-student-wins-nortias-student-essay-competition-co-authored-paper)
+[Paper](https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview), [Citation](/senge_weidinger_2020.bib), [Code](/https://github.com/mathiasweidinger/MPPTH"), [News](https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition), [News](https://www.politics.ox.ac.uk/news/dpir-student-wins-nortias-student-essay-competition-co-authored-paper)
 
 ------------------
 
 **_Ethno-national Confrontation and Electoral Choice._** Weidinger, M. (2019). *Peace and Progress 4(1)*, 3-29.
-[Paper (pdf)](https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf), [Citation](/weidinger_2019.bib)
+[Paper](https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf), [Citation](/weidinger_2019.bib)

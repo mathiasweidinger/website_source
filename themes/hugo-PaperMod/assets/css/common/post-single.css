@@ -71,7 +71,15 @@
 
 .post-content a,
 .toc a:hover {
+    color:rgb(217, 168, 152); /*OR USE rgb(65,182,196)*/
+    /*box-shadow: 0 1px 0;*/
+}
+
+.post-content a:hover {
+    color:rgb(195, 105, 78) ;
     box-shadow: 0 1px 0;
+}
+  
 }
 
 .post-content a code {

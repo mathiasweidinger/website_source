@@ -40,13 +40,34 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   
+  # params:
+  # homeInfoParams:
+  #   Title: Welcome to my website!
+  #   Content: Let's talk economics, the environment, and sustainable human development.
+  #   imageUrl: "android-chrome-512x512.png" # optional
+  #   imageTitle: "<favicon>" # optional
+  #   imageWidth: 150 # custom size
+  #   imageHeight: 150 # custom size
+  # 
+  # socialIcons: # optional
+  #   - name: "github"
+  #     url: "https://github.com/mathiasweidinger"
+  #   - name: "linkedin"
+  #     url: "https://www.linkedin.com/in/envirodevonomic/"
+  #   # - name: "twitter"
+  #   #   url: "https://twitter.com/envirodevonomic"
+  #   - name: "email"
+  #     url: "mailto:mathias.weidinger@gmail.com"
+  #   - name: "rss"
+  #     url: "index.xml"
+  
   profileMode:
     enabled: true
     title: |
-      Nice to meet you.
-    
+      Welcome to my digital garden.
+
     subtitle: |
-      Let's talk economics, the environment, and sustainable human development.
+      Now growing ideas on economics, the environment, and sustainable human development.
 
     imageUrl: "android-chrome-512x512.png" # optional
     imageTitle: "<favicon>" # optional
@@ -65,7 +86,7 @@ params:
       url: "mailto:mathias.weidinger@gmail.com"
     - name: "rss"
       url: "index.xml"
-    
+      
 outputs:
     home:
         - HTML
