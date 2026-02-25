@@ -95,9 +95,9 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 65%;
+    border-radius: 0%; /*100 for fully rounded corners!*/
     pointer-events: none;
-    width: 50%;
+    width: 100%;
     height: auto;
     }
 

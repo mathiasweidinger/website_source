@@ -3,9 +3,10 @@ aliases:
 - research
 
 date: "2021-09-18"
-title: "Research"
+title: "Things I have worked on before..."
 author: Mathias Weidinger
 bibliography: "publications.bib"
+details: "What I have done so far..."
 
 categories: []
 tags: []
@@ -15,8 +16,8 @@ showtoc: false
 showBreadCrumbs: false
 ---
 
-<!--![A word cloud of my research to date.](/images/wordworld.png) -->
-
+<!--![A word cloud of my research to date.](/images/wordworld.png)-->
+<!--
 ### Work in Progress
 ------------------
 **_Bridging the Financing Gap: Exploring the Drivers of Clean Energy Project Bankability in Ghana_** with [Theophilus Acheampong](https://www.abdn.ac.uk/people/theophilus.acheampong), Dennis Asare, Amprofi Agyemang, and [Bridget Menyeh](https://rgu-repository.worktribe.com/person/1646157/bridget-menyeh).
@@ -52,31 +53,39 @@ Ghana and other emerging economies.
 
 ------------------
 
-**_Tackling the Extensive Margin of Indian Coal
-Power_** with [Sugandha Srivastav](https://www.sugandhasrivastav.com/).
+**_The Extensive Margin of India's Coal Problem - Causal Evidence on Particulate Matter, Population Dynamics, and Mortality_** with [Sam Fankhauser](https://www.smithschool.ox.ac.uk/person/professor-sam-fankhauser) and [Sugandha Srivastav](https://www.sugandhasrivastav.com/).
 
 <details>
 <summary>
 Abstract
 </summary>
 
-The advent of spatially disaggregated data allows to us map
-where coal and gas fired power plants are located with unprecedented precision.
-Leveraging this data, we calculate the global health burden urban populations
-that live in proximity to fossil-fueled power plants. We first investigate how
-much of global fossil-fueled energy generation capacity is located within
-25km from population centres, followed by a quantification of the people
-potentially exposed to the resultant pollution. Lastly, we estimate the total
-life years lost as a result of proximity to coal- and gas-fired power plants.
+Coal is the dirtiest form of energy generation currently used at scale.
+Its (incomplete) combustion results in smoke that is contaminated with
+particulate matter and noxious gases which contribute both to local air
+pollution and global climate change. Note the difference in scale between
+the two effects. Local residents may prove more sensitive to the tangible
+(immediate and local) risks associated with inhaling toxic fumes than they
+are to the (delayed and dispersed) risks from the climate externality. In
+this paper, we first show empirically how the geographic positioning of Indian
+coal plants, relative to the population distribution, co-determines the size of
+their respective negative health externality through down-wind particulate matter
+pollution. We next calculate the approximate marginal health cost of every major
+coal plant across India. Our results suggest that the (direct) mortality costs
+of coal-fired generation, net of all its other adverse effects including climate
+change, may vastly outweigh the value of electricity produced. Since cleaner
+alternatives to coal are readily available and competitively priced, this study
+provides a strong impetus for phasing out coal and concurrently rolling out
+renewables - starting in areas where the health burden of coal power weighs the
+heaviest.
 </details>
 
 ------------------
 
 **_Sunlight as Security? Load-shedding and Solar Adoption_**  with [Sugandha Srivastav](https://www.sugandhasrivastav.com/).
 
-<!-------------------
 
--**_The Distributional Effects of Flood Risk on Access to Critical Infrastructure_** with Diana Jaramillo Araujo, [Mark Bernhofen](https://www.eci.ox.ac.uk/person/dr-mark-bernhofen), and [Roosa Lambin](https://www.eci.ox.ac.uk/person/dr-roosa-lambin). *WP coming soon* -->
+-**_The Distributional Effects of Flood Risk on Access to Critical Infrastructure_** with Diana Jaramillo Araujo, [Mark Bernhofen](https://www.eci.ox.ac.uk/person/dr-mark-bernhofen), and [Roosa Lambin](https://www.eci.ox.ac.uk/person/dr-roosa-lambin). *WP coming soon*
 
 ------------------
 
@@ -153,9 +162,15 @@ commercial investors can monetise them. In these cases, grants and interest rate
 subsidies promise higher societal returns over the project's lifecycle.
 </details>
 
+-->
 
 ### Policy Briefs and Reports
 ------------------
+
+**_Unlocking DFI-ECA Collaboration for Clean Energy Finance: Diagnostics and Pathways to Improvement._** Gonsalves Wetherell, S., Klasen, A., Fankhauser, S., Sen, A., and Weidinger, M. (2026). *Policy Brief*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](https://www.smithschool.ox.ac.uk/sites/default/files/2026-01/Unlocking-DFI-ECA-Collaboration-for-Clean-Energy-Finance-Diagnostics-and-Pathways-to-Improvement.pdf)
+
+------------------
+
 **_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](https://www.smithschool.ox.ac.uk/sites/default/files/2025-11/The-economic-benefits-of-renewable-energy-and-how-to-share-them.pdf), [Press Release](https://www.smithschool.ox.ac.uk/news/10-gdp-boost-global-south-clean-energy-transition), [The Conversation](https://theconversation.com/renewable-energy-is-reshaping-the-global-economy-new-report-268676), [Event](https://www.smithschool.ox.ac.uk/event/unlocking-local-benefits-renewable-energy)
 
 ------------------
