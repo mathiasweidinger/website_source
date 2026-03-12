@@ -165,63 +165,267 @@ subsidies promise higher societal returns over the project's lifecycle.
 -->
 
 ### Policy Briefs and Reports
-------------------
+--------------------
 
-**_Unlocking DFI-ECA Collaboration for Clean Energy Finance: Diagnostics and Pathways to Improvement._** Gonsalves Wetherell, S., Klasen, A., Fankhauser, S., Sen, A., and Weidinger, M. (2026). *Policy Brief*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](https://www.smithschool.ox.ac.uk/sites/default/files/2026-01/Unlocking-DFI-ECA-Collaboration-for-Clean-Energy-Finance-Diagnostics-and-Pathways-to-Improvement.pdf)
+**_Unlocking DFI-ECA Collaboration for Clean Energy Finance: Diagnostics and Pathways to Improvement._** Gonsalves Wetherell, S., Klasen, A., Fankhauser, S., Sen, A., and Weidinger, M. (2026). *Policy Brief*, Smith School of Enterprise and the Environment, University of Oxford.
+<a href="https://www.smithschool.ox.ac.uk/sites/default/files/2026-01/Unlocking-DFI-ECA-Collaboration-for-Clean-Energy-Finance-Diagnostics-and-Pathways-to-Improvement.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
-------------------
+<!-------------------->
 
-**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford. [Paper](https://www.smithschool.ox.ac.uk/sites/default/files/2025-11/The-economic-benefits-of-renewable-energy-and-how-to-share-them.pdf), [Press Release](https://www.smithschool.ox.ac.uk/news/10-gdp-boost-global-south-clean-energy-transition), [The Conversation](https://theconversation.com/renewable-energy-is-reshaping-the-global-economy-new-report-268676), [Event](https://www.smithschool.ox.ac.uk/event/unlocking-local-benefits-renewable-energy)
+**_The Economic Benefits of Renewables and How to Share Them._** Fankhauser, S., Agnelli, L., Collins-Tobin, M., Khushnud, F., Luscombe, H., Omukuti, J., Ravigne, E., Srivastav, S. and Weidinger, M. (2025). *Report*, Smith School of Enterprise and the Environment, University of Oxford.
+<a href="https://www.smithschool.ox.ac.uk/sites/default/files/2025-11/The-economic-benefits-of-renewable-energy-and-how-to-share-them.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
+&nbsp;
+<a href="https://www.smithschool.ox.ac.uk/news/10-gdp-boost-global-south-clean-energy-transition"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Blog
+</a>
+&nbsp;
+<a href="https://theconversation.com/renewable-energy-is-reshaping-the-global-economy-new-report-268676"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Press
+</a>
+&nbsp;
+<a href="https://www.smithschool.ox.ac.uk/event/unlocking-local-benefits-renewable-energy"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Event
+</a>
 
-------------------
 
-**_Empowering People with Green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme. [Paper](https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf)
+<!-------------------->
 
-------------------
+**_Empowering People with Green Skills for Climate-Compatible Growth._** Yang, P., Hirmer, S., and Weidinger, M. (2025). *Policy Brief*, Climate Compatible Growth Programme.
+<a href="https://climatecompatiblegrowth.com/wp-content/uploads/POLICY-BRIEF-Labour-Market-2025_250723-1.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
-**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper](https://greenandresilienteconomics.org/compendium-of-practice/contributions/institutional-architecture-and-mobilization-of-private-capital-for-adaptation-the-case-of-rwanda/)
+<!-------------------->
 
-------------------
+**_Institutional Architecture and Mobilisation of Private Capital for Adaptation: The Case of Rwanda._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action.
+<a href="https://greenandresilienteconomics.org/compendium-of-practice/contributions/institutional-architecture-and-mobilization-of-private-capital-for-adaptation-the-case-of-rwanda/"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
-**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action. [Paper](https://greenandresilienteconomics.org/compendium-of-practice/contributions/the-fiscal-case-for-adaptation-and-improved-sustainability-analysis/)
+<!-------------------->
 
-------------------
+**_The Fiscal Case for Adaptation and Improved Debt Sustainability Analysis._** Weidinger, M. and Ranger, N. (2025). *Compendium of Practice from a Global Community of Ministries of Finance and Leading Organizations*, Coalition of Finance Ministers for Climate Action.
+<a href="https://greenandresilienteconomics.org/compendium-of-practice/contributions/the-fiscal-case-for-adaptation-and-improved-sustainability-analysis/"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
-**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford. [Paper](https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf)
+<!-------------------->
 
-------------------
+**_Towards UK Systemic Resilience to International Cascading Climate Risks._** Ranger,N., Lambin, R. Verschuur, J., Weidinger, M., Briffa, G., and Sabuco, J. (2025). *Report*,  Environmental Change Institute, University of Oxford.
+<a href="https://www.eci.ox.ac.uk/sites/default/files/2025-05/UK_Systemic_Resilience_Report_2025%5BWeb%5D.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
+
+
+<!-------------------->
 
 **_Enabling Adaptation: Sustainable Fiscal Policies for Climate Resilient Development and Infrastructure._** Ranger, N., Weidinger, M., Bernhofen, M., Burke, M., Lambin, R., Puranasamriddhi, A., Sabuco, J., and Spacey Martin, R. (2025). *Report*, Environmental Change Institute, University of Oxford.
-[Paper](https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf), [Citation](/ranger_2025.bib)
+<a href="https://www.eci.ox.ac.uk/sites/default/files/2025-01/UNEP%20Enabling%20Adaptation%20Report%20%282025%29.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
 ### Popular Writing
-------------------
+--------------------
 
-**_The Vogue Business Climate Finance Glossary_**. Webb, B., Turns, A. (eds.), Maslin, M., Dietzel, A., Maalouf, A., Zhang, D., Specht, D, Morsing, M., Weidinger, M., Yan, M., Nahidi, N., O'Hare, P., and Sivarajah, S. (2025). *Online Glossary*, Vogue Business. [Vogue](https://www.voguebusiness.com/story/sustainability/the-vogue-business-climate-finance-glossary-the-hidden-cost), [The Conversation](https://theconversation.com/your-essential-guide-to-climate-finance-256358)
-
-### Audio and Video 
-------------------
-
-**_Emissions Trading Schemes_**. Weidinger, M. (2025). *Video*, The Conversation Quick Climate Dictionary. [YouTube](https://www.youtube.com/watch?v=FX3LoHTnD6s&t=4s)
+**_The Vogue Business Climate Finance Glossary_**. Webb, B., Turns, A. (eds.), Maslin, M., Dietzel, A., Maalouf, A., Zhang, D., Specht, D, Morsing, M., Weidinger, M., Yan, M., Nahidi, N., O'Hare, P., and Sivarajah, S. (2025). *Online Glossary*, Vogue Business.
+<a href="https://theconversation.com/your-essential-guide-to-climate-finance-256358"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Blog
+</a>
+&nbsp;
+<a href="https://www.voguebusiness.com/story/sustainability/the-vogue-business-climate-finance-glossary-the-hidden-cost"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Blog
+</a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=FX3LoHTnD6s&t=4s"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Video
+</a>
 
 ### Dissertations
-------------------
+--------------------
 
 **_Does Exposure to Deforestation Affect Subjective Well-Being? Evidence from Sub-Saharan Africa._** Weidinger, M. (2023). Master's Thesis in Economic and Financial Research.
-[Paper](/efrthesis_final.pdf), [Citation](/weidinger_2023.bib)
+<a href="/efrthesis_final.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
 
-------------------
+<!-------------------->
 
 **_Child Labour in Response to Climate Change._** Weidinger, M. (2021). *Master's Thesis in Public Policy and Human Development*.
-[Paper](/mppthesis_final.pdf), [Citation](/weidinger_2021.bib), [Code](/https://github.com/mathiasweidinger/MPPTH)
+<a href="/mppthesis_final.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
+&nbsp;
+<a href="https://github.com/mathiasweidinger/MPPTH"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Code
+</a>
 
 ### Earlier Work on European Politics
-------------------
+--------------------
 
 **_MEP's Receptiveness to Third Country Interests in the Framework of ACP-EU Parliamentary Diplomacy._** Senge, P. and Weidinger, M. (2020). *Student Essay Competition*, NORTIA.
-[Paper](https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview), [Citation](/senge_weidinger_2020.bib), [Code](/https://github.com/mathiasweidinger/MPPTH"), [News](https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition), [News](https://www.politics.ox.ac.uk/news/dpir-student-wins-nortias-student-essay-competition-co-authored-paper)
+<a href="https://drive.google.com/file/d/1sWLpTjllPDt1YPAvcR_tMusTqBR2JSM8/preview"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
+&nbsp;
+<a href="https://fasos.maastrichtuniversity.nl/weekly/fasos-alumni-win-nortia-student-essay-competition"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Press
+</a>
+&nbsp;
+<a href="https://www.politics.ox.ac.uk/news/dpir-student-wins-nortias-student-essay-competition-co-authored-paper"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Press
+</a>
 
-------------------
+
+
+
+<!-------------------->
 
 **_Ethno-national Confrontation and Electoral Choice._** Weidinger, M. (2019). *Peace and Progress 4(1)*, 3-29.
-[Paper](https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf), [Citation](/weidinger_2019.bib)
+<a href="https://postgraduate.ias.unu.edu/upp/wp-content/uploads/2019/07/UPP-1-Weidinger.pdf"
+   style="background-color: rgb(195, 105, 78);
+   color: white;
+   padding:2px 2px;
+   text-decoration:none;
+   border-radius:2px;
+   font-size:10px;
+   border:0px;">
+   Paper
+</a>
+
