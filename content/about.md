@@ -77,13 +77,13 @@ My research interests lie at the intersection of environmental and development e
 
 My DPhil[^1] forms part of the ECI's new programme on [climate resilience in African food systems](https://www.eci.ox.ac.uk/research/climate-resilience-african-food-systems). I frequently travel between the UK and our focus countries -- Ethiopia, Kenya, Nigeria, and Rwanda -- to meet and learn from the many brilliant people we work with across farmer organisations, businesses, government and NGOs. The programme is led by [Dr Agnes M. Kalibata](https://www.un.org/en/food-systems-summit/leadership) and my doctoral supervisor is [Professor Michael Obersteiner](https://www.eci.ox.ac.uk/person/professor-michael-obersteiner)
             
-Curiosity, caffeine, and conversation fuel most everything I do. One of my favourite platforms to provide all three of them is the [Environmental Economics Seminar Series](https://www.economics.ox.ac.uk/event/environmental-economics) which I help organise. It also provides a welcome contrast to the rest of my work time, which is largely spent coding in [R](https://www.r-project.org/) and writing up findings in [Markdown](https://daringfireball.net/projects/markdown/syntax). Sometimes, I write a [blog post](/post) to take note of something I might otherwise forget. In my screen-free time, you might find me [running around outside](/images/ptrun.jpg), learning a new language[^], or taking pictures on my late granpa's [analogue camera](https://finearts.uvic.ca/sim/wp-content/uploads/2018/11/Minolta-SRT-101.pdf) from the 1960s.[^3]
+Curiosity, caffeine, and conversation fuel most everything I do. One of my favourite platforms to provide all three of them is the [Environmental Economics Seminar Series](https://www.economics.ox.ac.uk/event/environmental-economics) which I help organise. It also provides a welcome contrast to the rest of my work time, which is largely spent coding in [R](https://www.r-project.org/) and writing up findings in [Markdown](https://daringfireball.net/projects/markdown/syntax). Sometimes, I write a [blog post](/post) to take note of something I might otherwise forget. In my screen-free time, you might find me [running around outside](/images/ptrun.jpg), learning a new language[^2], or taking pictures on my late granpa's [analogue camera](https://finearts.uvic.ca/sim/wp-content/uploads/2018/11/Minolta-SRT-101.pdf) from the 1960s.[^3]
 
 If any of the above resonates with you, [say hi](/contact)!
 
 
 [^1]: Known as a "PhD" virtually anywhere else in the world (sorry, Cambridge).
-[^2]: Currently, I am dabbling with Igbo and KiSwahili. 
+[^2]: Currently, I am dabbling with French, Igbo, Kiswahili, and Kinyarwanda. 
 [^3]: The picture above was taken by my favourite fellow film fan [Joseph Stemmler](https://sites.google.com/view/josephstemmler).
 
 
